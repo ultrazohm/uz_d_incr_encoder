@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC_ENC Pin=C?-2
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Added Pin To Net: NetName=GND_ENC Pin=C5-2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC6_2
+Added Member To Class: ClassName=X1 Member=Component R? R_TF
