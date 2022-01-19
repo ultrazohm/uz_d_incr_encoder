@@ -1,0 +1,1270 @@
+Removed Pin From Net: NetName=NetC3A_2 Pin=P1A-1
+Removed Pin From Net: NetName=NetC3A_2 Pin=P1A-2
+Removed Pin From Net: NetName=NetC3A_2 Pin=P1A-3
+Removed Pin From Net: NetName=NetC3A_2 Pin=P1A-4
+Removed Pin From Net: NetName=NetC3A_2 Pin=P1A-5
+Removed Pin From Net: NetName=NetC3A_2 Pin=P1A-6
+Removed Pin From Net: NetName=VCC_ENC Pin=P1A-7
+Removed Pin From Net: NetName=GND_ENC Pin=P1A-8
+Removed Pin From Net: NetName=NetC3B_2 Pin=P1B-1
+Removed Pin From Net: NetName=NetC3B_2 Pin=P1B-2
+Removed Pin From Net: NetName=NetC3B_2 Pin=P1B-3
+Removed Pin From Net: NetName=NetC3B_2 Pin=P1B-4
+Removed Pin From Net: NetName=NetC3B_2 Pin=P1B-5
+Removed Pin From Net: NetName=NetC3B_2 Pin=P1B-6
+Removed Pin From Net: NetName=VCC_ENC Pin=P1B-7
+Removed Pin From Net: NetName=GND_ENC Pin=P1B-8
+Removed Pin From Net: NetName=NetC3C_2 Pin=P1C-1
+Removed Pin From Net: NetName=NetC3C_2 Pin=P1C-2
+Removed Pin From Net: NetName=NetC3C_2 Pin=P1C-3
+Removed Pin From Net: NetName=NetC3C_2 Pin=P1C-4
+Removed Pin From Net: NetName=NetC3C_2 Pin=P1C-5
+Removed Pin From Net: NetName=NetC3C_2 Pin=P1C-6
+Removed Pin From Net: NetName=VCC_ENC Pin=P1C-7
+Removed Pin From Net: NetName=GND_ENC Pin=P1C-8
+Removed Member From Class: ClassName=EN_A Member=P1A
+Removed Member From Class: ClassName=EN_B Member=P1B
+Removed Member From Class: ClassName=EN_C Member=P1C
+Change Component Footprint: Designator=C1A Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C1B Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C1C Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C2A Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C2B Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C2C Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C3A Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C3B Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C3C Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C4A Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C4B Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C4C Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C6A Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C6B Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=C6C Old Footprint=RESC0805 New Footprint=C_0805
+Change Component Footprint: Designator=R1A Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R1B Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R1C Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R2A Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R2B Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R2C Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R3A Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R3B Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Footprint: Designator=R3C Old Footprint=RESC0805 New Footprint=RES 0805_2012
+Change Component Comment : Designator=C3A Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C3B Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C3C Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C4A Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C4B Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C4C Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C6A Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C6B Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C6C Old Comment=10nF New Comment=0.01 µF
+Change Component Comment : Designator=C5A Old Comment=10uF New Comment=10 µF
+Change Component Comment : Designator=C5B Old Comment=10uF New Comment=10 µF
+Change Component Comment : Designator=C5C Old Comment=10uF New Comment=10 µF
+Change Component Comment : Designator=C1A Old Comment=100nF New Comment=0.1 µF
+Change Component Comment : Designator=C1B Old Comment=100nF New Comment=0.1 µF
+Change Component Comment : Designator=C1C Old Comment=100nF New Comment=0.1 µF
+Change Component Comment : Designator=C2A Old Comment=100nF New Comment=0.1 µF
+Change Component Comment : Designator=C2B Old Comment=100nF New Comment=0.1 µF
+Change Component Comment : Designator=C2C Old Comment=100nF New Comment=0.1 µF
+Change Component Comment : Designator=J1A Old Comment=Encoder Jack New Comment=DSUB1.385-2H9
+Change Component Comment : Designator=J1B Old Comment=Encoder Jack New Comment=DSUB1.385-2H9
+Change Component Comment : Designator=J1C Old Comment=Encoder Jack New Comment=DSUB1.385-2H9
+Change Component Comment : Designator=U1A Old Comment=ISO7230 New Comment=ISO7230MDW
+Change Component Comment : Designator=U1B Old Comment=ISO7230 New Comment=ISO7230MDW
+Change Component Comment : Designator=U1C Old Comment=ISO7230 New Comment=ISO7230MDW
+Change Component Comment : Designator=Designer Old Comment=T. Wendt New Comment=Michaela Hlatky
+Change Component Comment : Designator=R4A Old Comment=VISHAY  VSOR 47.K New Comment=Res Pack3
+Change Component Comment : Designator=R4B Old Comment=VISHAY  VSOR 47.K New Comment=Res Pack3
+Change Component Comment : Designator=R4C Old Comment=VISHAY  VSOR 47.K New Comment=Res Pack3
+Change component parameters: Designator = "Designer" ("Designer"); Footprint = "Designator:comment"; UniqueID = "\YLPZJFGT" ("\YLPZJFGT")
+Change component parameters (AddParameter): Name = "Created"; Value = "2020-01-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Michaela Hlatky"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5A" ("C5"); Footprint = "CAPR5-4X5"; UniqueID = "\1ODGJBUDS\FCMDRHCV" ("\1ODGJBUDS\FCMDRHCV")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "25.05.2021 10:46:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "30.11.2021 13:37:41"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5B" ("C5"); Footprint = "CAPR5-4X5"; UniqueID = "\2ODGJBUDS\FCMDRHCV" ("\2ODGJBUDS\FCMDRHCV")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "25.05.2021 10:46:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "30.11.2021 13:37:41"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5C" ("C5"); Footprint = "CAPR5-4X5"; UniqueID = "\3ODGJBUDS\FCMDRHCV" ("\3ODGJBUDS\FCMDRHCV")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "25.05.2021 10:46:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "30.11.2021 13:37:41"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10 µF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4A" ("R4"); Footprint = "SO-16_N"; UniqueID = "\1ODGJBUDS\FZEDLYMT" ("\1ODGJBUDS\FZEDLYMT")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:54:47"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "207"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4B" ("R4"); Footprint = "SO-16_N"; UniqueID = "\2ODGJBUDS\FZEDLYMT" ("\2ODGJBUDS\FZEDLYMT")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:54:47"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "207"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4C" ("R4"); Footprint = "SO-16_N"; UniqueID = "\3ODGJBUDS\FZEDLYMT" ("\3ODGJBUDS\FZEDLYMT")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:54:47"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "207"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1A" ("J1"); Footprint = "DSUB1.385-2H9"; UniqueID = "\1ODGJBUDS\DLNACPPU" ("\1ODGJBUDS\DLNACPPU")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "DSUB Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "[NULL]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "26.01.2021 09:19:51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "1-Sep-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:43:18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Altium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DSUB1.385-2H9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "788750"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions"; Value = "9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "15-Jun-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DSUB Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1B" ("J1"); Footprint = "DSUB1.385-2H9"; UniqueID = "\2ODGJBUDS\DLNACPPU" ("\2ODGJBUDS\DLNACPPU")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "DSUB Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "[NULL]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "26.01.2021 09:19:51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "1-Sep-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:43:18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Altium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DSUB1.385-2H9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "788750"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions"; Value = "9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "15-Jun-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DSUB Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1C" ("J1"); Footprint = "DSUB1.385-2H9"; UniqueID = "\3ODGJBUDS\DLNACPPU" ("\3ODGJBUDS\DLNACPPU")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "DSUB Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "[NULL]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "26.01.2021 09:19:51"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetDocument"; Value = "1-Sep-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:43:18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Altium"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "DSUB1.385-2H9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDocument"; Value = "O"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "788750"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Positions"; Value = "9"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "15-Jun-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DSUB Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1A" ("U1"); Footprint = "TI ISO7230 SOIC"; UniqueID = "\1ODGJBUDS\VRUCZAQJ" ("\1ODGJBUDS\VRUCZAQJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/iso7230m.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1639988443497&ref_url=https%253A%252F%252Fwww.mouser.de%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "26.01.2021 09:03:43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.06.2021 08:32:47"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ISO7230MDW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 - +125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-ISO7230MDW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1B" ("U1"); Footprint = "TI ISO7230 SOIC"; UniqueID = "\2ODGJBUDS\VRUCZAQJ" ("\2ODGJBUDS\VRUCZAQJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/iso7230m.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1639988443497&ref_url=https%253A%252F%252Fwww.mouser.de%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "26.01.2021 09:03:43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.06.2021 08:32:47"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ISO7230MDW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 - +125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-ISO7230MDW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1C" ("U1"); Footprint = "TI ISO7230 SOIC"; UniqueID = "\3ODGJBUDS\VRUCZAQJ" ("\3ODGJBUDS\VRUCZAQJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/iso7230m.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1639988443497&ref_url=https%253A%252F%252Fwww.mouser.de%252F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "26.01.2021 09:03:43"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.06.2021 08:32:47"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ISO7230MDW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SOIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 - +125 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "595-ISO7230MDW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Microcontroller"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3A" ("U3"); Footprint = "SIL-6(7)"; UniqueID = "\1ODGJBUDS\HWWPJVZT" ("\1ODGJBUDS\HWWPJVZT")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "DC-DC Converter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.tracopower.com/products/tmh.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "16.11.2021 07:44:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "SIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "16.11.2021 07:44:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Traco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TMH 0505S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "TMH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "495-TMH-0505S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "isolated DC-DC Converter"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3B" ("U3"); Footprint = "SIL-6(7)"; UniqueID = "\2ODGJBUDS\HWWPJVZT" ("\2ODGJBUDS\HWWPJVZT")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "DC-DC Converter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.tracopower.com/products/tmh.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "16.11.2021 07:44:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "SIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "16.11.2021 07:44:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Traco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TMH 0505S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "TMH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "495-TMH-0505S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "isolated DC-DC Converter"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3C" ("U3"); Footprint = "SIL-6(7)"; UniqueID = "\3ODGJBUDS\HWWPJVZT" ("\3ODGJBUDS\HWWPJVZT")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "DC-DC Converter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.tracopower.com/products/tmh.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "16.11.2021 07:44:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "SIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "16.11.2021 07:44:11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Traco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TMH 0505S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40 - 85 °C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "TMH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "495-TMH-0505S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "isolated DC-DC Converter"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1A" ("R1"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\KUVJFXMD" ("\1ODGJBUDS\KUVJFXMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1B" ("R1"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\KUVJFXMD" ("\2ODGJBUDS\KUVJFXMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1C" ("R1"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\KUVJFXMD" ("\3ODGJBUDS\KUVJFXMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2A" ("R2"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\XSXHSXCJ" ("\1ODGJBUDS\XSXHSXCJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2B" ("R2"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\XSXHSXCJ" ("\2ODGJBUDS\XSXHSXCJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2C" ("R2"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\XSXHSXCJ" ("\3ODGJBUDS\XSXHSXCJ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3A" ("R3"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\OSFERITZ" ("\1ODGJBUDS\OSFERITZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3B" ("R3"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\OSFERITZ" ("\2ODGJBUDS\OSFERITZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3C" ("R3"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\OSFERITZ" ("\3ODGJBUDS\OSFERITZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C304-1149620.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "148"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-6ENF1182V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "11k8"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1A" ("C1"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\LNQAJVYS" ("\1ODGJBUDS\LNQAJVYS")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2020 16:34:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1B" ("C1"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\LNQAJVYS" ("\2ODGJBUDS\LNQAJVYS")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2020 16:34:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1C" ("C1"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\LNQAJVYS" ("\3ODGJBUDS\LNQAJVYS")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2020 16:34:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2A" ("C2"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\KIARGZBZ" ("\1ODGJBUDS\KIARGZBZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2020 16:34:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2B" ("C2"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\KIARGZBZ" ("\2ODGJBUDS\KIARGZBZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2020 16:34:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2C" ("C2"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\KIARGZBZ" ("\3ODGJBUDS\KIARGZBZ")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/212/KEM_C1002_X7R_SMD-1102033.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "20.12.2020 16:34:30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "17"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SMD Comm X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "Labor SMD Container"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "80-C0805C104J5RECTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "50 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3A" ("C3"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\ZOJNTKRP" ("\1ODGJBUDS\ZOJNTKRP")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3B" ("C3"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\ZOJNTKRP" ("\2ODGJBUDS\ZOJNTKRP")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3C" ("C3"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\ZOJNTKRP" ("\3ODGJBUDS\ZOJNTKRP")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4A" ("C4"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\QLXHZBMD" ("\1ODGJBUDS\QLXHZBMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4B" ("C4"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\QLXHZBMD" ("\2ODGJBUDS\QLXHZBMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4C" ("C4"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\QLXHZBMD" ("\3ODGJBUDS\QLXHZBMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6A" ("C6"); Footprint = "RESC0805"; UniqueID = "\1ODGJBUDS\CRGCPBPB" ("\1ODGJBUDS\CRGCPBPB")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6B" ("C6"); Footprint = "RESC0805"; UniqueID = "\2ODGJBUDS\CRGCPBPB" ("\2ODGJBUDS\CRGCPBPB")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6C" ("C6"); Footprint = "RESC0805"; UniqueID = "\3ODGJBUDS\CRGCPBPB" ("\3ODGJBUDS\CRGCPBPB")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Capacitor 0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/281/1/GRM21BR72A103KA01_01C-1986947.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "20.12.2020 13:54:13"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "17.11.2021 11:27:00"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM21BR72A103KA01L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55 - 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "GRM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "81-GRM21BR72A103K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01 µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100 VDC"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 0805_2012)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/catalog/specsheets/Yageo-03-18-2021-PYu-RC_Group_51_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0805JR-100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 0805_2012)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/catalog/specsheets/Yageo-03-18-2021-PYu-RC_Group_51_RoHS_L_11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MGremer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "14.12.2020 18:22:52"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0805JR-100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "603-RC0805JR-100RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=X1(HSEC8-150-01-XX-DV-A-BL-CARD)
+Add component (AddParameter): Name = "Category"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Board to Board Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Homepage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.samtec.com/products/hsec8-dp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created"; Value = "2018_04_23_AGeiger"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "T. Wendt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "26.02.2021 16:36:12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "PCB Shape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "26.02.2021 16:37:20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HSEC8-150-01-XX-DV-A-BL-CARD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "PCB Shape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of positions"; Value = "100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "HSEC8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "NA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Board to Board Connector"; VariantName = "[No Variations]"
+Added Component: Designator=X2(SAMTEC_TSW-110-07-F-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/527/tsw_th-2854687.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "22.11.2021 15:31:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 07:38:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TSW-110-07-F-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-110-07-F-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 +125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TSW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "200-TSW11007FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X3(SAMTEC_TSW-110-07-F-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/527/tsw_th-2854687.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "22.11.2021 15:31:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 07:38:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TSW-110-07-F-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-110-07-F-T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 +125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TSW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "200-TSW11007FT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X4(SAMTEC_TSW-106-07-F-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/527/tsw_th-2854687.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "22.11.2021 15:31:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 07:38:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TSW-106-07-F-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSW-106-07-F-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55 +125 °C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "TSW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "200-TSW10607FD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=X5A(HDR1X8)
+Add component (AddParameter): Name = "Component Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "22.11.2021 15:31:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 07:38:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HDR1X8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HDR1X8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=X5B(HDR1X8)
+Add component (AddParameter): Name = "Component Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "22.11.2021 15:31:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 07:38:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HDR1X8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HDR1X8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Added Component: Designator=X5C(HDR1X8)
+Add component (AddParameter): Name = "Component Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "22.11.2021 15:31:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 07:38:08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HDR1X8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "HDR1X8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Pin Header"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=PILOT_OUT Pin=R5-2
+Added Pin To Net: NetName=PILOT_OUT Pin=R6-1
+Added Pin To Net: NetName=PILOT_IN Pin=R6-2
+Added Pin To Net: NetName=GND Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X1-3
+Added Pin To Net: NetName=GND Pin=X1-4
+Added Pin To Net: NetName=VIN Pin=X1-5
+Added Pin To Net: NetName=VIN Pin=X1-6
+Added Pin To Net: NetName=GND Pin=X1-7
+Added Pin To Net: NetName=GND Pin=X1-8
+Added Pin To Net: NetName=5V_PER Pin=X1-9
+Added Pin To Net: NetName=5V_PER Pin=X1-10
+Added Pin To Net: NetName=GND Pin=X1-11
+Added Pin To Net: NetName=GND Pin=X1-12
+Added Pin To Net: NetName=3V3_PER Pin=X1-13
+Added Pin To Net: NetName=3V3_PER Pin=X1-14
+Added Pin To Net: NetName=GND Pin=X1-15
+Added Pin To Net: NetName=GND Pin=X1-16
+Added Pin To Net: NetName=DIG_IO_01 Pin=X1-17
+Added Pin To Net: NetName=DIG_IO_02 Pin=X1-18
+Added Pin To Net: NetName=GND Pin=X1-19
+Added Pin To Net: NetName=GND Pin=X1-20
+Added Pin To Net: NetName=DIG_IO_03 Pin=X1-21
+Added Pin To Net: NetName=DIG_IO_04 Pin=X1-22
+Added Pin To Net: NetName=GND Pin=X1-23
+Added Pin To Net: NetName=GND Pin=X1-24
+Added Pin To Net: NetName=DIG_IO_05 Pin=X1-25
+Added Pin To Net: NetName=DIG_IO_06 Pin=X1-26
+Added Pin To Net: NetName=GND Pin=X1-27
+Added Pin To Net: NetName=GND Pin=X1-28
+Added Pin To Net: NetName=DIG_IO_07 Pin=X1-29
+Added Pin To Net: NetName=DIG_IO_08 Pin=X1-30
+Added Pin To Net: NetName=GND Pin=X1-31
+Added Pin To Net: NetName=GND Pin=X1-32
+Added Pin To Net: NetName=DIG_IO_09 Pin=X1-33
+Added Pin To Net: NetName=DIG_IO_10 Pin=X1-34
+Added Pin To Net: NetName=GND Pin=X1-35
+Added Pin To Net: NetName=GND Pin=X1-36
+Added Pin To Net: NetName=DIG_IO_11 Pin=X1-37
+Added Pin To Net: NetName=Encoder_A3 Pin=X1-38
+Added Pin To Net: NetName=GND Pin=X1-39
+Added Pin To Net: NetName=GND Pin=X1-40
+Added Pin To Net: NetName=Encoder_A2 Pin=X1-41
+Added Pin To Net: NetName=Encoder_A1 Pin=X1-42
+Added Pin To Net: NetName=GND Pin=X1-43
+Added Pin To Net: NetName=GND Pin=X1-44
+Added Pin To Net: NetName=Encoder_B3 Pin=X1-45
+Added Pin To Net: NetName=Encoder_B2 Pin=X1-46
+Added Pin To Net: NetName=GND Pin=X1-47
+Added Pin To Net: NetName=GND Pin=X1-48
+Added Pin To Net: NetName=Encoder_B1 Pin=X1-49
+Added Pin To Net: NetName=Encoder_C3 Pin=X1-50
+Added Pin To Net: NetName=GND Pin=X1-51
+Added Pin To Net: NetName=GND Pin=X1-52
+Added Pin To Net: NetName=Encoder_C2 Pin=X1-53
+Added Pin To Net: NetName=Encoder_C1 Pin=X1-54
+Added Pin To Net: NetName=GND Pin=X1-55
+Added Pin To Net: NetName=GND Pin=X1-56
+Added Pin To Net: NetName=DIG_IO_21 Pin=X1-57
+Added Pin To Net: NetName=DIG_IO_22 Pin=X1-58
+Added Pin To Net: NetName=GND Pin=X1-59
+Added Pin To Net: NetName=GND Pin=X1-60
+Added Pin To Net: NetName=DIG_IO_23 Pin=X1-61
+Added Pin To Net: NetName=DIG_IO_24 Pin=X1-62
+Added Pin To Net: NetName=GND Pin=X1-63
+Added Pin To Net: NetName=GND Pin=X1-64
+Added Pin To Net: NetName=DIG_IO_25 Pin=X1-65
+Added Pin To Net: NetName=DIG_IO_26 Pin=X1-66
+Added Pin To Net: NetName=GND Pin=X1-67
+Added Pin To Net: NetName=GND Pin=X1-68
+Added Pin To Net: NetName=DIG_IO_27 Pin=X1-69
+Added Pin To Net: NetName=DIG_IO_28 Pin=X1-70
+Added Pin To Net: NetName=GND Pin=X1-71
+Added Pin To Net: NetName=GND Pin=X1-72
+Added Pin To Net: NetName=DIG_IO_29 Pin=X1-73
+Added Pin To Net: NetName=DIG_IO_30 Pin=X1-74
+Added Pin To Net: NetName=GND Pin=X1-75
+Added Pin To Net: NetName=GND Pin=X1-76
+Added Pin To Net: NetName=PS_DIG_GPIO_01 Pin=X1-77
+Added Pin To Net: NetName=PS_DIG_GPIO_02 Pin=X1-78
+Added Pin To Net: NetName=DIG_Res_01 Pin=X1-79
+Added Pin To Net: NetName=DIG_Res_02 Pin=X1-80
+Added Pin To Net: NetName=GND Pin=X1-81
+Added Pin To Net: NetName=GND Pin=X1-82
+Added Pin To Net: NetName=CPLD_DigIn_01 Pin=X1-83
+Added Pin To Net: NetName=CPLD_DigOut_01 Pin=X1-84
+Added Pin To Net: NetName=CPLD_DigIn_02 Pin=X1-85
+Added Pin To Net: NetName=CPLD_DigOut_02 Pin=X1-86
+Added Pin To Net: NetName=GND Pin=X1-87
+Added Pin To Net: NetName=GND Pin=X1-88
+Added Pin To Net: NetName=I2C0_SCL Pin=X1-89
+Added Pin To Net: NetName=I2C0_SCA Pin=X1-90
+Added Pin To Net: NetName=DIG_Res_03 Pin=X1-91
+Added Pin To Net: NetName=DIG_Res_04 Pin=X1-92
+Added Pin To Net: NetName=DIG_Res_05 Pin=X1-93
+Added Pin To Net: NetName=DIG_Res_06 Pin=X1-94
+Added Pin To Net: NetName=DIG_Res_07 Pin=X1-95
+Added Pin To Net: NetName=Collective_FLT Pin=X1-96
+Added Pin To Net: NetName=GND Pin=X1-97
+Added Pin To Net: NetName=GND Pin=X1-98
+Added Pin To Net: NetName=PILOT_OUT Pin=X1-99
+Added Pin To Net: NetName=PILOT_IN Pin=X1-100
+Added Pin To Net: NetName=DIG_IO_01 Pin=X2-01
+Added Pin To Net: NetName=DIG_IO_02 Pin=X2-02
+Added Pin To Net: NetName=DIG_IO_03 Pin=X2-04
+Added Pin To Net: NetName=DIG_IO_04 Pin=X2-05
+Added Pin To Net: NetName=DIG_IO_05 Pin=X2-07
+Added Pin To Net: NetName=DIG_IO_06 Pin=X2-08
+Added Pin To Net: NetName=DIG_IO_07 Pin=X2-10
+Added Pin To Net: NetName=DIG_IO_08 Pin=X2-11
+Added Pin To Net: NetName=DIG_IO_09 Pin=X2-13
+Added Pin To Net: NetName=DIG_IO_10 Pin=X2-14
+Added Pin To Net: NetName=DIG_IO_11 Pin=X2-16
+Added Pin To Net: NetName=Encoder_A3 Pin=X2-17
+Added Pin To Net: NetName=Encoder_A2 Pin=X2-19
+Added Pin To Net: NetName=Encoder_A1 Pin=X2-20
+Added Pin To Net: NetName=Encoder_B3 Pin=X2-22
+Added Pin To Net: NetName=Encoder_B2 Pin=X2-23
+Added Pin To Net: NetName=Encoder_B1 Pin=X2-25
+Added Pin To Net: NetName=Encoder_C3 Pin=X2-26
+Added Pin To Net: NetName=Encoder_C2 Pin=X2-28
+Added Pin To Net: NetName=Encoder_C1 Pin=X2-29
+Added Pin To Net: NetName=DIG_IO_21 Pin=X3-01
+Added Pin To Net: NetName=DIG_IO_22 Pin=X3-02
+Added Pin To Net: NetName=DIG_IO_23 Pin=X3-04
+Added Pin To Net: NetName=DIG_IO_24 Pin=X3-05
+Added Pin To Net: NetName=DIG_IO_25 Pin=X3-07
+Added Pin To Net: NetName=DIG_IO_26 Pin=X3-08
+Added Pin To Net: NetName=DIG_IO_27 Pin=X3-10
+Added Pin To Net: NetName=DIG_IO_28 Pin=X3-11
+Added Pin To Net: NetName=DIG_IO_29 Pin=X3-13
+Added Pin To Net: NetName=DIG_IO_30 Pin=X3-14
+Added Pin To Net: NetName=I2C0_SDA Pin=X3-26
+Added Pin To Net: NetName=VIN_fused Pin=X4-01
+Added Pin To Net: NetName=VIN_fused Pin=X4-02
+Added Pin To Net: NetName=GND Pin=X4-03
+Added Pin To Net: NetName=GND Pin=X4-04
+Added Pin To Net: NetName=GND Pin=X4-07
+Added Pin To Net: NetName=GND Pin=X4-08
+Added Pin To Net: NetName=GND Pin=X4-11
+Added Pin To Net: NetName=GND Pin=X4-12
+Added Pin To Net: NetName=NetC3A_2 Pin=X5A-1
+Added Pin To Net: NetName=NetC3A_2 Pin=X5A-2
+Added Pin To Net: NetName=NetC3A_2 Pin=X5A-3
+Added Pin To Net: NetName=NetC3A_2 Pin=X5A-4
+Added Pin To Net: NetName=NetC3A_2 Pin=X5A-5
+Added Pin To Net: NetName=NetC3A_2 Pin=X5A-6
+Added Pin To Net: NetName=VCC_ENC Pin=X5A-7
+Added Pin To Net: NetName=GND_ENC Pin=X5A-8
+Added Pin To Net: NetName=NetC3B_2 Pin=X5B-1
+Added Pin To Net: NetName=NetC3B_2 Pin=X5B-2
+Added Pin To Net: NetName=NetC3B_2 Pin=X5B-3
+Added Pin To Net: NetName=NetC3B_2 Pin=X5B-4
+Added Pin To Net: NetName=NetC3B_2 Pin=X5B-5
+Added Pin To Net: NetName=NetC3B_2 Pin=X5B-6
+Added Pin To Net: NetName=VCC_ENC Pin=X5B-7
+Added Pin To Net: NetName=GND_ENC Pin=X5B-8
+Added Pin To Net: NetName=NetC3C_2 Pin=X5C-1
+Added Pin To Net: NetName=NetC3C_2 Pin=X5C-2
+Added Pin To Net: NetName=NetC3C_2 Pin=X5C-3
+Added Pin To Net: NetName=NetC3C_2 Pin=X5C-4
+Added Pin To Net: NetName=NetC3C_2 Pin=X5C-5
+Added Pin To Net: NetName=NetC3C_2 Pin=X5C-6
+Added Pin To Net: NetName=VCC_ENC Pin=X5C-7
+Added Pin To Net: NetName=GND_ENC Pin=X5C-8
+Change Net Name : Old Net Name=3V3_PER_fused New Net Name=+3V3
+Change Net Name : Old Net Name=5V_PER_fused New Net Name=+5
+Change Net Name : Old Net Name=NetC3A_2 New Net Name=U0+A
+Change Net Name : Old Net Name=NetC3B_2 New Net Name=U0+B
+Change Net Name : Old Net Name=NetC3C_2 New Net Name=U0+C
+Added Pin To Net: NetName=3V3_PER_fused Pin=X4-09
+Added Pin To Net: NetName=3V3_PER_fused Pin=X4-10
+Added Net: Name=3V3_PER_fused
+Added Pin To Net: NetName=5V_PER_fused Pin=X4-05
+Added Pin To Net: NetName=5V_PER_fused Pin=X4-06
+Added Net: Name=5V_PER_fused
+Added Pin To Net: NetName=NetX2_03 Pin=X2-03
+Added Pin To Net: NetName=NetX2_03 Pin=X2-06
+Added Pin To Net: NetName=NetX2_03 Pin=X2-09
+Added Pin To Net: NetName=NetX2_03 Pin=X2-12
+Added Pin To Net: NetName=NetX2_03 Pin=X2-15
+Added Pin To Net: NetName=NetX2_03 Pin=X2-18
+Added Pin To Net: NetName=NetX2_03 Pin=X2-21
+Added Pin To Net: NetName=NetX2_03 Pin=X2-24
+Added Pin To Net: NetName=NetX2_03 Pin=X2-27
+Added Pin To Net: NetName=NetX2_03 Pin=X2-30
+Added Net: Name=NetX2_03
+Added Pin To Net: NetName=NetX3_03 Pin=X3-03
+Added Pin To Net: NetName=NetX3_03 Pin=X3-06
+Added Net: Name=NetX3_03
+Added Pin To Net: NetName=U0 SingleA Pin=U1A-5
+Added Net: Name=U0 SingleA
+Added Pin To Net: NetName=U0 SingleB Pin=U1B-5
+Added Net: Name=U0 SingleB
+Added Pin To Net: NetName=U0 SingleC Pin=U1C-5
+Added Net: Name=U0 SingleC
+Added Pin To Net: NetName=U1 SingleA Pin=U1A-4
+Added Net: Name=U1 SingleA
+Added Pin To Net: NetName=U1 SingleB Pin=U1B-4
+Added Net: Name=U1 SingleB
+Added Pin To Net: NetName=U1 SingleC Pin=U1C-4
+Added Net: Name=U1 SingleC
+Added Pin To Net: NetName=U2 SingleA Pin=U1A-3
+Added Net: Name=U2 SingleA
+Added Pin To Net: NetName=U2 SingleB Pin=U1B-3
+Added Net: Name=U2 SingleB
+Added Pin To Net: NetName=U2 SingleC Pin=U1C-3
+Added Net: Name=U2 SingleC
+Added Member To Class: ClassName=X1 Member=Component R5 0R
+Added Member To Class: ClassName=X1 Member=Component R6 0R
+Added Member To Class: ClassName=X1 Member=Component X1 HSEC8-150-01-XX-DV-A-BL-CARD
+Added Member To Class: ClassName=Encoder Member=Component X2 Pin Header
+Added Member To Class: ClassName=Encoder Member=Component X3 Pin Header
+Added Member To Class: ClassName=Encoder Member=Component X4 Pin Header
+Added Member To Class: ClassName=EN_A Member=Component X5A (X5) Pin Header
+Added Member To Class: ClassName=EN_B Member=Component X5B (X5) Pin Header
+Added Member To Class: ClassName=EN_C Member=Component X5C (X5) Pin Header
