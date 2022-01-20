@@ -30,7 +30,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for UZ_D_Incr_Encoder
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -125,7 +125,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HOEAIWOK
 
 [Document6]
-DocumentPath=UltraZohm_Digital_Template.PcbDoc
+DocumentPath=UZ_D_Incr_Encoder.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -139,10 +139,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UKAUFFDN
+DocumentUniqueId=EUTONNES
 
 [Document7]
-DocumentPath=OutputJob.OutJob
+DocumentPath=UZ_D_Incr_Encoder.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -159,24 +159,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=UltraZohm_Digital_Incremental_Encoder_v2.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=Encoder_1.SchDoc
+DocumentPath=Encoder_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,7 +175,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKOQSAPV
 
-[Document10]
+[Document9]
 DocumentPath=Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -209,7 +192,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MZRLMFJG
 
-[Document11]
+[Document10]
 DocumentPath=TopSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -226,24 +209,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZATAJRJ
 
-[Document12]
-DocumentPath=ultrazohm_digital_voltage_3U_1vxx.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
+[Document11]
 DocumentPath=DigitalCarrierJack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -260,7 +226,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOUXSEWW
 
-[Document14]
+[Document12]
 DocumentPath=DigitalCarrierJack.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -277,24 +243,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
-DocumentPath=UltraZohm_Digital_Template.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document16]
+[Document13]
 DocumentPath=Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -311,8 +260,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
-DocumentPath=UltraZohm_Digital_Incremental_Encoder_v2.OutJob
+[Document14]
+DocumentPath=UZ_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -328,25 +277,33 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueID=A3650665-A1DF-4BAB-BAD3-2065A905699C
+Description=Default
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [Parameter1]
-Name=ProjectRevision
-Value=Rev02
+Name=Author
+Value=M. Hlatky
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UZ_Incr_Encoder
+Name=AuthorParam
+Value=Michaela Hlatky
 
 [Parameter3]
 Name=Date
 Value=03/2022
 
 [Parameter4]
-Name=AuthorParam
-Value=Michaela Hlatky
+Name=ProjectNameCustom
+Value=UZ_Incr_Encoder
 
 [Parameter5]
-Name=Author
-Value=M. Hlatky
+Name=ProjectRevision
+Value=Rev02
 
 [Configuration1]
 Name=Sources
@@ -395,7 +352,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UZ_D_Incr_Encoder
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -982,36 +939,6 @@ OutputName11=Export STEP
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
