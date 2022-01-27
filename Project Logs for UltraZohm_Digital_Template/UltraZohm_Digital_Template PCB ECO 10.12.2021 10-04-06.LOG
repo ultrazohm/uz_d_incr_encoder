@@ -1,0 +1,123 @@
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=C3A-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=C3B-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=C4A-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=C4B-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=C6A-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=C6B-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1A-3
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1A-4
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1A-5
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1A-7
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1A-8
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1A-9
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1B-3
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1B-4
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1B-5
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1B-7
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1B-8
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=J1B-9
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1A-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1A-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1A-3
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1A-4
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1A-5
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1A-6
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1B-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1B-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1B-3
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1B-4
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1B-5
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=P1B-6
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R1A-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R1B-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R2A-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R2B-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R3A-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R3B-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4A-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4A-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4A-3
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4A-4
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4A-5
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4A-6
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4B-1
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4B-2
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4B-3
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4B-4
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4B-5
+Removed Pin From Net: NetName=PS_DIG_GPIO_01 Pin=R4B-6
+Change Net Name : Old Net Name=PS_DIG_GPIO_01 New Net Name=NetC3C_2
+Added Pin To Net: NetName=Encoder_A1 Pin=U1A-14
+Added Net: Name=Encoder_A1
+Added Pin To Net: NetName=Encoder_A2 Pin=U1B-14
+Added Net: Name=Encoder_A2
+Added Pin To Net: NetName=Encoder_A3 Pin=U1C-14
+Added Net: Name=Encoder_A3
+Added Pin To Net: NetName=Encoder_B1 Pin=U1A-13
+Added Net: Name=Encoder_B1
+Added Pin To Net: NetName=Encoder_B2 Pin=U1B-13
+Added Net: Name=Encoder_B2
+Added Pin To Net: NetName=Encoder_B3 Pin=U1C-13
+Added Net: Name=Encoder_B3
+Added Pin To Net: NetName=Encoder_C1 Pin=U1A-12
+Added Net: Name=Encoder_C1
+Added Pin To Net: NetName=Encoder_C2 Pin=U1B-12
+Added Net: Name=Encoder_C2
+Added Pin To Net: NetName=Encoder_C3 Pin=U1C-12
+Added Net: Name=Encoder_C3
+Added Pin To Net: NetName=NetC3A_2 Pin=C3A-2
+Added Pin To Net: NetName=NetC3A_2 Pin=C4A-2
+Added Pin To Net: NetName=NetC3A_2 Pin=C6A-2
+Added Pin To Net: NetName=NetC3A_2 Pin=J1A-3
+Added Pin To Net: NetName=NetC3A_2 Pin=J1A-4
+Added Pin To Net: NetName=NetC3A_2 Pin=J1A-5
+Added Pin To Net: NetName=NetC3A_2 Pin=J1A-7
+Added Pin To Net: NetName=NetC3A_2 Pin=J1A-8
+Added Pin To Net: NetName=NetC3A_2 Pin=J1A-9
+Added Pin To Net: NetName=NetC3A_2 Pin=P1A-1
+Added Pin To Net: NetName=NetC3A_2 Pin=P1A-2
+Added Pin To Net: NetName=NetC3A_2 Pin=P1A-3
+Added Pin To Net: NetName=NetC3A_2 Pin=P1A-4
+Added Pin To Net: NetName=NetC3A_2 Pin=P1A-5
+Added Pin To Net: NetName=NetC3A_2 Pin=P1A-6
+Added Pin To Net: NetName=NetC3A_2 Pin=R1A-1
+Added Pin To Net: NetName=NetC3A_2 Pin=R2A-1
+Added Pin To Net: NetName=NetC3A_2 Pin=R3A-1
+Added Pin To Net: NetName=NetC3A_2 Pin=R4A-1
+Added Pin To Net: NetName=NetC3A_2 Pin=R4A-2
+Added Pin To Net: NetName=NetC3A_2 Pin=R4A-3
+Added Pin To Net: NetName=NetC3A_2 Pin=R4A-4
+Added Pin To Net: NetName=NetC3A_2 Pin=R4A-5
+Added Pin To Net: NetName=NetC3A_2 Pin=R4A-6
+Added Net: Name=NetC3A_2
+Added Pin To Net: NetName=NetC3B_2 Pin=C3B-2
+Added Pin To Net: NetName=NetC3B_2 Pin=C4B-2
+Added Pin To Net: NetName=NetC3B_2 Pin=C6B-2
+Added Pin To Net: NetName=NetC3B_2 Pin=J1B-3
+Added Pin To Net: NetName=NetC3B_2 Pin=J1B-4
+Added Pin To Net: NetName=NetC3B_2 Pin=J1B-5
+Added Pin To Net: NetName=NetC3B_2 Pin=J1B-7
+Added Pin To Net: NetName=NetC3B_2 Pin=J1B-8
+Added Pin To Net: NetName=NetC3B_2 Pin=J1B-9
+Added Pin To Net: NetName=NetC3B_2 Pin=P1B-1
+Added Pin To Net: NetName=NetC3B_2 Pin=P1B-2
+Added Pin To Net: NetName=NetC3B_2 Pin=P1B-3
+Added Pin To Net: NetName=NetC3B_2 Pin=P1B-4
+Added Pin To Net: NetName=NetC3B_2 Pin=P1B-5
+Added Pin To Net: NetName=NetC3B_2 Pin=P1B-6
+Added Pin To Net: NetName=NetC3B_2 Pin=R1B-1
+Added Pin To Net: NetName=NetC3B_2 Pin=R2B-1
+Added Pin To Net: NetName=NetC3B_2 Pin=R3B-1
+Added Pin To Net: NetName=NetC3B_2 Pin=R4B-1
+Added Pin To Net: NetName=NetC3B_2 Pin=R4B-2
+Added Pin To Net: NetName=NetC3B_2 Pin=R4B-3
+Added Pin To Net: NetName=NetC3B_2 Pin=R4B-4
+Added Pin To Net: NetName=NetC3B_2 Pin=R4B-5
+Added Pin To Net: NetName=NetC3B_2 Pin=R4B-6
+Added Net: Name=NetC3B_2
+Added Net: Name=PS_DIG_GPIO_01
+Added Class: Name=Encoder
+Added Class: Name=Encoder_A[1..3]
+Added Class: Name=Encoder_B[1..3]
+Added Class: Name=Encoder_C[1..3]
+Added Room: Name=Encoder

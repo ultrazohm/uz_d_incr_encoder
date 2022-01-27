@@ -1,0 +1,117 @@
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC1608X55X30NL15T15"; UniqueID = "\LGUSEKVC\NSANGCNJ" ("\LGUSEKVC\NSANGCNJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ERJU030R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RESC1608X55X30NL15T15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-U030R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R?" ("R?"); Footprint = "RESC1608X55X30NL15T15"; UniqueID = "\LGUSEKVC\ZAPGXOLU" ("\LGUSEKVC\ZAPGXOLU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created"; Value = "2019-12-08_Thilo_Wendt"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.mouser.de/datasheet/2/315/AOA0000C334-1314047.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxVoltage"; Value = "100"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "ERJU030R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "RESC1608X55X30NL15T15"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter1"; Value = "V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter1Desc"; Value = "Package Method"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter2"; Value = "F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter2Desc"; Value = "Tolerance Symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter3"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Parameter3Desc"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "667-ERJ-U030R00V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPR5-4X5)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=J1(DSUB1.385-2H9)
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "1-Sep-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "788750"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Positions"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jun-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R4(SO-16_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=3V3_PER_fused Pin=C?-2
+Added Net: Name=3V3_PER_fused
+Added Net: Name=5V_PER_fused
+Added Pin To Net: NetName=GND_ENC Pin=C?-1
+Added Pin To Net: NetName=GND_ENC Pin=C?-2
+Added Pin To Net: NetName=GND_ENC Pin=J1-1
+Added Pin To Net: NetName=GND_ENC Pin=P1-8
+Added Net: Name=GND_ENC
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=J1-7
+Added Pin To Net: NetName=NetC?_2 Pin=P1-4
+Added Pin To Net: NetName=NetC?_2 Pin=R4-4
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=P1-5
+Added Pin To Net: NetName=NetJ1_3 Pin=R4-2
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ1_5 Pin=J1-5
+Added Pin To Net: NetName=NetJ1_5 Pin=P1-1
+Added Pin To Net: NetName=NetJ1_5 Pin=R4-5
+Added Net: Name=NetJ1_5
+Added Pin To Net: NetName=NetJ1_8 Pin=J1-8
+Added Pin To Net: NetName=NetJ1_8 Pin=P1-3
+Added Pin To Net: NetName=NetJ1_8 Pin=R4-3
+Added Net: Name=NetJ1_8
+Added Net: Name=NetU1_3
+Added Net: Name=NetU1_4
+Added Net: Name=NetU1_5
+Added Net: Name=NetU1_12
+Added Net: Name=NetU1_13
+Added Net: Name=NetU1_14
+Added Pin To Net: NetName=VCC_ENC Pin=C?-1
+Added Pin To Net: NetName=VCC_ENC Pin=C?-2
+Added Pin To Net: NetName=VCC_ENC Pin=J1-2
+Added Pin To Net: NetName=VCC_ENC Pin=P1-7
+Added Pin To Net: NetName=VCC_ENC Pin=R4-9
+Added Pin To Net: NetName=VCC_ENC Pin=R4-10
+Added Pin To Net: NetName=VCC_ENC Pin=R4-11
+Added Pin To Net: NetName=VCC_ENC Pin=R4-12
+Added Pin To Net: NetName=VCC_ENC Pin=R4-13
+Added Pin To Net: NetName=VCC_ENC Pin=R4-14
+Added Pin To Net: NetName=VCC_ENC Pin=R4-15
+Added Pin To Net: NetName=VCC_ENC Pin=R4-16
+Added Net: Name=VCC_ENC
+Added Class: Name=X2
+Added Member To Class: ClassName=X1 Member=Component R? R_TF
+Added Room: Name=X2
