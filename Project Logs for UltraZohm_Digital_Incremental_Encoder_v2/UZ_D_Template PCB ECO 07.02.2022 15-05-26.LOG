@@ -1,0 +1,175 @@
+Add Component: Footprint Not Found Comment
+Add Component: Footprint Not Found Designator:comment
+Add Component: Footprint Not Found Designator:comment
+Added Component: Designator=R4(SO-16_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:54:47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "207"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RESC1608X55X30NL15T15
+Add Component: Footprint Not Found RESC1608X55X30NL15T15
+Added Component: Designator=R10(SO-16_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:54:47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "207"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(SO-16_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P600-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-012-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "MHlatky"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "14.12.2020 16:17:14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "20.12.2021 09:54:47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "Res Pack3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "207"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Altium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found Designator:comment
+Add Component: Footprint Not Found SERIAL
+Add Component: Footprint Not Found M16A_M
+Add Component: Footprint Not Found M16A_M
+Add Component: Footprint Not Found M16A_M
+Added Pin To Net: NetName=A+_CH1 Pin=R4-1
+Added Pin To Net: NetName=A+_CH1 Pin=R4-2
+Added Pin To Net: NetName=A+_CH1 Pin=R4-3
+Added Pin To Net: NetName=A+_CH1 Pin=R4-4
+Added Pin To Net: NetName=A+_CH1 Pin=R4-5
+Added Pin To Net: NetName=A+_CH1 Pin=R4-6
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-9
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-10
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-11
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-12
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-13
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-14
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-15
+Added Pin To Net: NetName=VCC_ENC_CH1 Pin=R4-16
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Added Pin To Net: NetName=A+_CH2 Pin=R10-1
+Added Pin To Net: NetName=A+_CH2 Pin=R10-2
+Added Pin To Net: NetName=A+_CH2 Pin=R10-3
+Added Pin To Net: NetName=A+_CH2 Pin=R10-4
+Added Pin To Net: NetName=A+_CH2 Pin=R10-5
+Added Pin To Net: NetName=A+_CH2 Pin=R10-6
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-9
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-10
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-11
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-12
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-13
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-14
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-15
+Added Pin To Net: NetName=VCC_ENC_CH2 Pin=R10-16
+Added Pin To Net: NetName=A+_CH3 Pin=R14-1
+Added Pin To Net: NetName=A+_CH3 Pin=R14-2
+Added Pin To Net: NetName=A+_CH3 Pin=R14-3
+Added Pin To Net: NetName=A+_CH3 Pin=R14-4
+Added Pin To Net: NetName=A+_CH3 Pin=R14-5
+Added Pin To Net: NetName=A+_CH3 Pin=R14-6
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-9
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-10
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-11
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-12
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-13
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-14
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-15
+Added Pin To Net: NetName=VCC_ENC_CH3 Pin=R14-16
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U2-7
+Add Pin To Net: Unknown Pin: Pin U2-8
+Add Pin To Net: Unknown Pin: Pin U2-9
+Add Pin To Net: Unknown Pin: Pin U2-10
+Add Pin To Net: Unknown Pin: Pin U2-12
+Add Pin To Net: Unknown Pin: Pin U2-13
+Add Pin To Net: Unknown Pin: Pin U2-14
+Add Pin To Net: Unknown Pin: Pin U2-15
+Add Pin To Net: Unknown Pin: Pin U2-16
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Pin To Net: Unknown Pin: Pin U4-5
+Add Pin To Net: Unknown Pin: Pin U4-6
+Add Pin To Net: Unknown Pin: Pin U4-7
+Add Pin To Net: Unknown Pin: Pin U4-8
+Add Pin To Net: Unknown Pin: Pin U4-9
+Add Pin To Net: Unknown Pin: Pin U4-10
+Add Pin To Net: Unknown Pin: Pin U4-12
+Add Pin To Net: Unknown Pin: Pin U4-13
+Add Pin To Net: Unknown Pin: Pin U4-14
+Add Pin To Net: Unknown Pin: Pin U4-15
+Add Pin To Net: Unknown Pin: Pin U4-16
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Add Pin To Net: Unknown Pin: Pin U7-7
+Add Pin To Net: Unknown Pin: Pin U7-8
+Add Pin To Net: Unknown Pin: Pin U7-9
+Add Pin To Net: Unknown Pin: Pin U7-10
+Add Pin To Net: Unknown Pin: Pin U7-12
+Add Pin To Net: Unknown Pin: Pin U7-13
+Add Pin To Net: Unknown Pin: Pin U7-14
+Add Pin To Net: Unknown Pin: Pin U7-15
+Add Pin To Net: Unknown Pin: Pin U7-16
+Add Class: Class already exists: Encoder
+Add Class: Class already exists: Encoder
+Add Class Member: Failed to add class member : Component R5 R_TF
+Add Class Member: Failed to add class member : Component R6 R_TF
+Added Member To Class: ClassName=Encoder Member=Component R14 Res Pack3
+Add Class Member: Failed to add class member : Component U7 DS26LS32ACM
+Change Room Name: Old Name=Encoder_2 New Name=Encoder
+Added Room: Name=Encoder
