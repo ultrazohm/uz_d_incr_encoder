@@ -31,7 +31,7 @@ ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=
+OutputPath=Project Outputs for UltraZohm_Digital_Incremental_Encoder_v2
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -370,7 +370,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document20]
-DocumentPath=UZ_D_Template.PcbDoc
+DocumentPath=UZ_D_IncrEncd_v2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -384,7 +384,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EUTONNES
 
 [Parameter1]
 Name=Author
@@ -457,7 +457,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for UltraZohm_Digital_Incremental_Encoder_v2
 
 [OutputGroup1]
 Name=Netlist Outputs
