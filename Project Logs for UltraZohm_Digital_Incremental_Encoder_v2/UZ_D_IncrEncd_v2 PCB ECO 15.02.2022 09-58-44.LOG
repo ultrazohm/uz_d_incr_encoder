@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=A+_CH2 Pin=C7-2
+Removed Pin From Net: NetName=A+_CH2 Pin=C8-2
+Removed Pin From Net: NetName=A+_CH2 Pin=C9-2
+Removed Pin From Net: NetName=A+_CH3 Pin=C13-2
+Removed Pin From Net: NetName=A+_CH3 Pin=C14-2
+Removed Pin From Net: NetName=A+_CH3 Pin=C15-2
+Removed Pin From Net: NetName=A+_CH2 Pin=J2-4
+Removed Pin From Net: NetName=A+_CH2 Pin=J2-5
+Removed Pin From Net: NetName=A+_CH2 Pin=J2-7
+Removed Pin From Net: NetName=A+_CH2 Pin=J2-8
+Removed Pin From Net: NetName=A+_CH2 Pin=J2-9
+Removed Pin From Net: NetName=A+_CH3 Pin=J3-4
+Removed Pin From Net: NetName=A+_CH3 Pin=J3-5
+Removed Pin From Net: NetName=A+_CH3 Pin=J3-7
+Removed Pin From Net: NetName=A+_CH3 Pin=J3-8
+Removed Pin From Net: NetName=A+_CH3 Pin=J3-9
+Removed Pin From Net: NetName=A+_CH2 Pin=R8-1
+Removed Pin From Net: NetName=A+_CH2 Pin=R9-1
+Removed Pin From Net: NetName=A+_CH2 Pin=R10-1
+Removed Pin From Net: NetName=A+_CH2 Pin=R10-3
+Removed Pin From Net: NetName=A+_CH2 Pin=R10-4
+Removed Pin From Net: NetName=A+_CH2 Pin=R10-5
+Removed Pin From Net: NetName=A+_CH2 Pin=R10-6
+Removed Pin From Net: NetName=A+_CH3 Pin=R12-1
+Removed Pin From Net: NetName=A+_CH3 Pin=R13-1
+Removed Pin From Net: NetName=A+_CH3 Pin=R14-1
+Removed Pin From Net: NetName=A+_CH3 Pin=R14-3
+Removed Pin From Net: NetName=A+_CH3 Pin=R14-4
+Removed Pin From Net: NetName=A+_CH3 Pin=R14-5
+Removed Pin From Net: NetName=A+_CH3 Pin=R14-6
+Removed Pin From Net: NetName=A+_CH2 Pin=U4-1
+Removed Pin From Net: NetName=A+_CH2 Pin=U4-6
+Removed Pin From Net: NetName=A+_CH2 Pin=U4-7
+Removed Pin From Net: NetName=A+_CH2 Pin=U4-14
+Removed Pin From Net: NetName=A+_CH2 Pin=U4-15
+Removed Pin From Net: NetName=A+_CH3 Pin=U7-1
+Removed Pin From Net: NetName=A+_CH3 Pin=U7-6
+Removed Pin From Net: NetName=A+_CH3 Pin=U7-7
+Removed Pin From Net: NetName=A+_CH3 Pin=U7-14
+Removed Pin From Net: NetName=A+_CH3 Pin=U7-15
+Removed Pin From Net: NetName=A+_CH2 Pin=X6-1
+Removed Pin From Net: NetName=A+_CH2 Pin=X6-2
+Removed Pin From Net: NetName=A+_CH2 Pin=X6-3
+Removed Pin From Net: NetName=A+_CH2 Pin=X6-4
+Removed Pin From Net: NetName=A+_CH2 Pin=X6-6
+Removed Pin From Net: NetName=A+_CH3 Pin=X7-1
+Removed Pin From Net: NetName=A+_CH3 Pin=X7-2
+Removed Pin From Net: NetName=A+_CH3 Pin=X7-3
+Removed Pin From Net: NetName=A+_CH3 Pin=X7-4
+Removed Pin From Net: NetName=A+_CH3 Pin=X7-6
+Added Pin To Net: NetName=A-_CH2 Pin=C7-2
+Added Pin To Net: NetName=A-_CH2 Pin=J2-4
+Added Pin To Net: NetName=A-_CH2 Pin=R10-1
+Added Pin To Net: NetName=A-_CH2 Pin=U4-1
+Added Pin To Net: NetName=A-_CH2 Pin=X6-6
+Added Net: Name=A-_CH2
+Added Pin To Net: NetName=A-_CH3 Pin=C13-2
+Added Pin To Net: NetName=A-_CH3 Pin=J3-4
+Added Pin To Net: NetName=A-_CH3 Pin=R14-1
+Added Pin To Net: NetName=A-_CH3 Pin=U7-1
+Added Pin To Net: NetName=A-_CH3 Pin=X7-6
+Added Net: Name=A-_CH3
+Added Pin To Net: NetName=B+_CH2 Pin=J2-8
+Added Pin To Net: NetName=B+_CH2 Pin=R8-1
+Added Pin To Net: NetName=B+_CH2 Pin=R10-3
+Added Pin To Net: NetName=B+_CH2 Pin=U4-14
+Added Pin To Net: NetName=B+_CH2 Pin=X6-3
+Added Net: Name=B+_CH2
+Added Pin To Net: NetName=B+_CH3 Pin=J3-8
+Added Pin To Net: NetName=B+_CH3 Pin=R12-1
+Added Pin To Net: NetName=B+_CH3 Pin=R14-3
+Added Pin To Net: NetName=B+_CH3 Pin=U7-14
+Added Pin To Net: NetName=B+_CH3 Pin=X7-3
+Added Net: Name=B+_CH3
+Added Pin To Net: NetName=B-_CH2 Pin=C8-2
+Added Pin To Net: NetName=B-_CH2 Pin=J2-7
+Added Pin To Net: NetName=B-_CH2 Pin=R10-4
+Added Pin To Net: NetName=B-_CH2 Pin=U4-15
+Added Pin To Net: NetName=B-_CH2 Pin=X6-4
+Added Net: Name=B-_CH2
+Added Pin To Net: NetName=B-_CH3 Pin=C14-2
+Added Pin To Net: NetName=B-_CH3 Pin=J3-7
+Added Pin To Net: NetName=B-_CH3 Pin=R14-4
+Added Pin To Net: NetName=B-_CH3 Pin=U7-15
+Added Pin To Net: NetName=B-_CH3 Pin=X7-4
+Added Net: Name=B-_CH3
+Added Pin To Net: NetName=Z+_CH2 Pin=J2-5
+Added Pin To Net: NetName=Z+_CH2 Pin=R9-1
+Added Pin To Net: NetName=Z+_CH2 Pin=R10-5
+Added Pin To Net: NetName=Z+_CH2 Pin=U4-6
+Added Pin To Net: NetName=Z+_CH2 Pin=X6-1
+Added Net: Name=Z+_CH2
+Added Pin To Net: NetName=Z+_CH3 Pin=J3-5
+Added Pin To Net: NetName=Z+_CH3 Pin=R13-1
+Added Pin To Net: NetName=Z+_CH3 Pin=R14-5
+Added Pin To Net: NetName=Z+_CH3 Pin=U7-6
+Added Pin To Net: NetName=Z+_CH3 Pin=X7-1
+Added Net: Name=Z+_CH3
+Added Pin To Net: NetName=Z-_CH2 Pin=C9-2
+Added Pin To Net: NetName=Z-_CH2 Pin=J2-9
+Added Pin To Net: NetName=Z-_CH2 Pin=R10-6
+Added Pin To Net: NetName=Z-_CH2 Pin=U4-7
+Added Pin To Net: NetName=Z-_CH2 Pin=X6-2
+Added Net: Name=Z-_CH2
+Added Pin To Net: NetName=Z-_CH3 Pin=C15-2
+Added Pin To Net: NetName=Z-_CH3 Pin=J3-9
+Added Pin To Net: NetName=Z-_CH3 Pin=R14-6
+Added Pin To Net: NetName=Z-_CH3 Pin=U7-7
+Added Pin To Net: NetName=Z-_CH3 Pin=X7-2
+Added Net: Name=Z-_CH3
