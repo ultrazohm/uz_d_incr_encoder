@@ -1,0 +1,93 @@
+Change Component Designator: OldDesignator=C1A NewDesignator=C1_1
+Change Component Designator: OldDesignator=C1B NewDesignator=C1_2
+Change Component Designator: OldDesignator=C1C NewDesignator=C1_3
+Change Component Designator: OldDesignator=C2A NewDesignator=C2_1
+Change Component Designator: OldDesignator=C2B NewDesignator=C2_2
+Change Component Designator: OldDesignator=C2C NewDesignator=C2_3
+Change Component Designator: OldDesignator=C3A NewDesignator=C3_1
+Change Component Designator: OldDesignator=C3B NewDesignator=C3_2
+Change Component Designator: OldDesignator=C3C NewDesignator=C3_3
+Change Component Designator: OldDesignator=C4A NewDesignator=C4_1
+Change Component Designator: OldDesignator=C4B NewDesignator=C4_2
+Change Component Designator: OldDesignator=C4C NewDesignator=C4_3
+Change Component Designator: OldDesignator=C5A NewDesignator=C5_1
+Change Component Designator: OldDesignator=C5B NewDesignator=C5_2
+Change Component Designator: OldDesignator=C5C NewDesignator=C5_3
+Change Component Designator: OldDesignator=C6A NewDesignator=C6_1
+Change Component Designator: OldDesignator=C6B NewDesignator=C6_2
+Change Component Designator: OldDesignator=C6C NewDesignator=C6_3
+Change Component Designator: OldDesignator=J1A NewDesignator=J1_1
+Change Component Designator: OldDesignator=J1B NewDesignator=J1_2
+Change Component Designator: OldDesignator=J1C NewDesignator=J1_3
+Change Component Designator: OldDesignator=R1A NewDesignator=R1_1
+Change Component Designator: OldDesignator=R1B NewDesignator=R1_2
+Change Component Designator: OldDesignator=R1C NewDesignator=R1_3
+Change Component Designator: OldDesignator=R2A NewDesignator=R2_1
+Change Component Designator: OldDesignator=R2B NewDesignator=R2_2
+Change Component Designator: OldDesignator=R2C NewDesignator=R2_3
+Change Component Designator: OldDesignator=R3A NewDesignator=R3_1
+Change Component Designator: OldDesignator=R3B NewDesignator=R3_2
+Change Component Designator: OldDesignator=R3C NewDesignator=R3_3
+Change Component Designator: OldDesignator=R4A NewDesignator=R4_1
+Change Component Designator: OldDesignator=R4B NewDesignator=R4_2
+Change Component Designator: OldDesignator=R4C NewDesignator=R4_3
+Change Component Designator: OldDesignator=U1A NewDesignator=U1_1
+Change Component Designator: OldDesignator=U1B NewDesignator=U1_2
+Change Component Designator: OldDesignator=U1C NewDesignator=U1_3
+Change Component Designator: OldDesignator=U2A NewDesignator=U2_1
+Change Component Designator: OldDesignator=U2B NewDesignator=U2_2
+Change Component Designator: OldDesignator=U2C NewDesignator=U2_3
+Change Component Designator: OldDesignator=U3A NewDesignator=U3_1
+Change Component Designator: OldDesignator=U3B NewDesignator=U3_2
+Change Component Designator: OldDesignator=U3C NewDesignator=U3_3
+Change Component Designator: OldDesignator=X5A NewDesignator=X5_1
+Change Component Designator: OldDesignator=X5B NewDesignator=X5_2
+Change Component Designator: OldDesignator=X5C NewDesignator=X5_3
+Change Net Name : Old Net Name=A+A New Net Name=A+_1
+Change Net Name : Old Net Name=A+B New Net Name=A+_2
+Change Net Name : Old Net Name=A+C New Net Name=A+_3
+Change Net Name : Old Net Name=A-A New Net Name=A-_1
+Change Net Name : Old Net Name=A-B New Net Name=A-_2
+Change Net Name : Old Net Name=A-C New Net Name=A-_3
+Change Net Name : Old Net Name=A_encoderA New Net Name=A_encoder_1
+Change Net Name : Old Net Name=A_encoderB New Net Name=A_encoder_2
+Change Net Name : Old Net Name=A_encoderC New Net Name=A_encoder_3
+Change Net Name : Old Net Name=A_singleA New Net Name=A_single_1
+Change Net Name : Old Net Name=A_singleB New Net Name=A_single_2
+Change Net Name : Old Net Name=A_singleC New Net Name=A_single_3
+Change Net Name : Old Net Name=B+A New Net Name=B+_1
+Change Net Name : Old Net Name=B+B New Net Name=B+_2
+Change Net Name : Old Net Name=B+C New Net Name=B+_3
+Change Net Name : Old Net Name=B-A New Net Name=B-_1
+Change Net Name : Old Net Name=B-B New Net Name=B-_2
+Change Net Name : Old Net Name=B-C New Net Name=B-_3
+Change Net Name : Old Net Name=B_encoderA New Net Name=B_encoder_1
+Change Net Name : Old Net Name=B_encoderB New Net Name=B_encoder_2
+Change Net Name : Old Net Name=B_encoderC New Net Name=B_encoder_3
+Change Net Name : Old Net Name=B_singleA New Net Name=B_single_1
+Change Net Name : Old Net Name=B_singleB New Net Name=B_single_2
+Change Net Name : Old Net Name=B_singleC New Net Name=B_single_3
+Change Net Name : Old Net Name=GND_ENCA New Net Name=GND_ENC_1
+Change Net Name : Old Net Name=GND_ENCB New Net Name=GND_ENC_2
+Change Net Name : Old Net Name=GND_ENCC New Net Name=GND_ENC_3
+Change Net Name : Old Net Name=NetC3A_1 New Net Name=NetC3_1_1
+Change Net Name : Old Net Name=NetC3B_1 New Net Name=NetC3_2_1
+Change Net Name : Old Net Name=NetC3C_1 New Net Name=NetC3_3_1
+Change Net Name : Old Net Name=NetC4A_1 New Net Name=NetC4_1_1
+Change Net Name : Old Net Name=NetC4B_1 New Net Name=NetC4_2_1
+Change Net Name : Old Net Name=NetC4C_1 New Net Name=NetC4_3_1
+Change Net Name : Old Net Name=NetC6A_1 New Net Name=NetC6_1_1
+Change Net Name : Old Net Name=NetC6B_1 New Net Name=NetC6_2_1
+Change Net Name : Old Net Name=NetC6C_1 New Net Name=NetC6_3_1
+Change Net Name : Old Net Name=VCC_ENCA New Net Name=VCC_ENC_1
+Change Net Name : Old Net Name=VCC_ENCB New Net Name=VCC_ENC_2
+Change Net Name : Old Net Name=VCC_ENCC New Net Name=VCC_ENC_3
+Change Net Name : Old Net Name=Z+A New Net Name=Z+_1
+Change Net Name : Old Net Name=Z+B New Net Name=Z+_2
+Change Net Name : Old Net Name=Z+C New Net Name=Z+_3
+Change Net Name : Old Net Name=Z-A New Net Name=Z-_1
+Change Net Name : Old Net Name=Z-B New Net Name=Z-_2
+Change Net Name : Old Net Name=Z-C New Net Name=Z-_3
+Change Net Name : Old Net Name=Z_singleA New Net Name=Z_single_1
+Change Net Name : Old Net Name=Z_singleB New Net Name=Z_single_2
+Change Net Name : Old Net Name=Z_singleC New Net Name=Z_single_3
