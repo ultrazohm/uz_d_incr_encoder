@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: UZ_D_Incr_Encoder.PcbDoc   10.03.2022  19:30:56
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : UZ_D_Incr_Encoder_[No Variations]_Rev02.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             104       PTH        40.87inch (1038.16mm)
+T2      12mil (0.3mm)                                             Round             52        PTH        28.20inch (716.24mm)
+T3      24mil (0.599mm)                                           Round             18        PTH        4.94inch (125.40mm)
+T4      32mil (0.8mm)                                             Round             6         PTH        2.83inch (71.98mm)
+T5      35mil (0.899mm)                                           Round             24        PTH        3.34inch (84.76mm)
+T6      40mil (1.021mm)                                           Round             72        PTH        7.81inch (198.33mm)
+T7      43mil (1.09mm)                                            Round             27        PTH        5.20inch (132.08mm)
+T8      128mil (3.259mm)                                          Round             6         PTH        3.51inch (89.03mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              309
+
+Total Processing Time (hh:mm:ss) : 00:00:01
