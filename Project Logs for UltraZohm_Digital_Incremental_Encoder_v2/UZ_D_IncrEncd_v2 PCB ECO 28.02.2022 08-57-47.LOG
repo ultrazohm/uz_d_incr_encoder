@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=DIG_IO_07 Pin=X2-10
-Removed Pin From Net: NetName=DIG_IO_05 Pin=X2-13
-Added Pin To Net: NetName=DIG_IO_05 Pin=X2-10
-Added Pin To Net: NetName=DIG_IO_07 Pin=X2-13
