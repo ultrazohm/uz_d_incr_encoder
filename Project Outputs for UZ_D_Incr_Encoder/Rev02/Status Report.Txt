@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 12:11:17 On 07.04.2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Default] of Project [UZ_D_Incr_Encoder.PrjPCB]
+   Generated File[BOM_UZ_D_Incr_Encoder_Default_Rev02.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 12:11:39 On 07.04.2022
