@@ -324,10 +324,11 @@ UniqueID=74E42B91-B41C-47F9-8192-F076E6B28CFD
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=3
+VariationCount=4
 Variation1=Designator=R4_1|UniqueId=\WITIXTXN\FZEDLYMT|Kind=0|AlternatePart= 
 Variation2=Designator=R4_2|UniqueId=\ODGJBUDS\FZEDLYMT|Kind=0|AlternatePart= 
 Variation3=Designator=R4_3|UniqueId=\JLYWADHL\FZEDLYMT|Kind=0|AlternatePart= 
+Variation4=Designator=R5|UniqueId=\EVTOCLWH\EBWVLWLR|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [Parameter1]
