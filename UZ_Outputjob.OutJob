@@ -17,11 +17,11 @@ RevisionNamingSchemeGUID=
 [OutputGroup1]
 Name=UZ_Outputjob.OutJob
 Description=
-TargetOutputMedium=BOM
+TargetOutputMedium=Pick_and_Place
 VariantName=Default
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=RICOH IM C3000 PS
+TargetPrinter=OKI B432(PS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -168,7 +168,7 @@ OutputName6=Bill of Materials
 OutputCategory6=Report
 OutputDocumentPath6=
 OutputVariantName6=Standard
-OutputEnabled6=1
+OutputEnabled6=0
 OutputEnabled6_OutputMedium1=0
 OutputEnabled6_OutputMedium2=0
 OutputEnabled6_OutputMedium3=0
@@ -491,7 +491,7 @@ OutputName12=Pick and Place Files
 OutputCategory12=Assembly
 OutputDocumentPath12=
 OutputVariantName12=
-OutputEnabled12=0
+OutputEnabled12=1
 OutputEnabled12_OutputMedium1=0
 OutputEnabled12_OutputMedium2=0
 OutputEnabled12_OutputMedium3=0
@@ -622,7 +622,7 @@ ShowComponentParameters4=1
 GlobalBookmarks4=0
 PDFACompliance4=Disabled
 PDFVersion4=Default
-OutputFilePath5=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev02\
+OutputFilePath5=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
 ReleaseManaged5=1
 OutputBasePath5=Project Outputs for UZ_D_Incr_Encoder
 OutputPathMedia5==ProjectRevision
@@ -648,7 +648,7 @@ OutputFileNameMulti6=='Export STEP_'+ProjectName+'_'+VariantName+'_'+ProjectRevi
 UseOutputNameForMulti6=0
 OutputFileNameSpecial6=
 OpenOutput6=0
-OutputFilePath7=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev02\
+OutputFilePath7=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
 ReleaseManaged7=1
 OutputBasePath7=Project Outputs for UZ_D_Incr_Encoder
 OutputPathMedia7==ProjectRevision
@@ -661,11 +661,11 @@ OutputFileNameMulti7==ProjectName+'_'+ProjectRevision
 UseOutputNameForMulti7=0
 OutputFileNameSpecial7=
 OpenOutput7=0
-OutputFilePath8=C:\Users\michi\Documents\ELSYS\Altium\uz_d_incr_encoder_v2\Project Outputs for UltraZohm_Digital_Incremental_Encoder_v2\ProjectRevision\
+OutputFilePath8=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
 ReleaseManaged8=1
 OutputBasePath8=Project Outputs for UZ_D_Incr_Encoder
-OutputPathMedia8=='ProjectRevision'
-OutputPathMediaValue8=='ProjectRevision'
+OutputPathMedia8==ProjectRevision
+OutputPathMediaValue8==ProjectRevision
 OutputPathOutputer8=[Output Type]
 OutputPathOutputerPrefix8=
 OutputPathOutputerValue8=
@@ -673,8 +673,8 @@ OutputFileName8=
 OutputFileNameMulti8=='Pick_and_Place_'+ProjectName+'_'+VariantName+'_'+ProjectRevision
 UseOutputNameForMulti8=0
 OutputFileNameSpecial8=
-OpenOutput8=1
-OutputFilePath9=C:\Users\michi\Documents\ELSYS\Altium\uz_d_incr_encoder_v2\Project Outputs for UltraZohm_Digital_Incremental_Encoder_v2\1v00\
+OpenOutput8=0
+OutputFilePath9=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
 ReleaseManaged9=1
 OutputBasePath9=Project Outputs for UZ_D_Incr_Encoder
 OutputPathMedia9==ProjectRevision
@@ -686,7 +686,7 @@ OutputFileName9=
 OutputFileNameMulti9=='BOM_JLC_'+ProjectName+'_'+VariantName+'_'+ProjectRevision
 UseOutputNameForMulti9=0
 OutputFileNameSpecial9=
-OpenOutput9=1
+OpenOutput9=0
 
 [GeneratedFilesSettings]
 RelativeOutputPath2=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Project Outputs for Ordering_Test\
@@ -695,7 +695,7 @@ RelativeOutputPath3=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Proj
 OpenOutputs3=1
 RelativeOutputPath4=C:\Users\Public\Documents\Altium\Projects\Ordering_Test\Project Outputs for Ordering_Test\ProjectRevision\
 OpenOutputs4=0
-RelativeOutputPath5=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev02\
+RelativeOutputPath5=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
 OpenOutputs5=1
 AddToProject5=1
 TimestampFolder5=0
@@ -715,7 +715,7 @@ OpenGerberOutput6=0
 OpenNCDrillOutput6=0
 OpenIPCOutput6=0
 EnableReload6=0
-RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev02\
+RelativeOutputPath7=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
 OpenOutputs7=0
 AddToProject7=0
 TimestampFolder7=0
@@ -725,9 +725,9 @@ OpenGerberOutput7=0
 OpenNCDrillOutput7=0
 OpenIPCOutput7=0
 EnableReload7=0
-RelativeOutputPath8=C:\Users\michi\Documents\ELSYS\Altium\uz_d_incr_encoder_v2\Project Outputs for UltraZohm_Digital_Incremental_Encoder_v2\ProjectRevision\
-OpenOutputs8=1
-AddToProject8=1
+RelativeOutputPath8=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
+OpenOutputs8=0
+AddToProject8=0
 TimestampFolder8=0
 UseOutputName8=0
 OpenODBOutput8=0
@@ -735,8 +735,8 @@ OpenGerberOutput8=0
 OpenNCDrillOutput8=0
 OpenIPCOutput8=0
 EnableReload8=0
-RelativeOutputPath9=C:\Users\michi\Documents\ELSYS\Altium\uz_d_incr_encoder_v2\Project Outputs for UltraZohm_Digital_Incremental_Encoder_v2\1v00\
-OpenOutputs9=1
+RelativeOutputPath9=C:\Users\ga92wum\git\UltraZohm\PCB\uz_d_incr_encoder_v2\Project Outputs for UZ_D_Incr_Encoder\Rev03\
+OpenOutputs9=0
 AddToProject9=0
 TimestampFolder9=0
 UseOutputName9=0
