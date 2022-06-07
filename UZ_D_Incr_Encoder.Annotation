@@ -1004,5 +1004,20 @@ PhysicalDesignatorLocked142=0
 [SheetNumberManager]
 SheetNumberOrder=Display Order
 SheetNumberMethod=Increasing
+DocumentName0=TopSheet.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=DigitalCarrierJack.SchDoc
+UniqueIDPath1=\EVTOCLWH
+SheetNumber1=2
+DocumentName2=Encoder_Interface.SchDoc
+UniqueIDPath2=\WITIXTXN
+SheetNumber2=3.1
+DocumentName3=Encoder_Interface.SchDoc
+UniqueIDPath3=\ODGJBUDS
+SheetNumber3=3.2
+DocumentName4=Encoder_Interface.SchDoc
+UniqueIDPath4=\JLYWADHL
+SheetNumber4=3.3
 
 
