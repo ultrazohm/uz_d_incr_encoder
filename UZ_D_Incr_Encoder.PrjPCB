@@ -215,24 +215,48 @@ Variation4=Designator=R14_3|UniqueId=\JLYWADHL\YBTDKUFJ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=Michaela Hlatky
+Name=ZC_vv
+Value=00
 
 [Parameter2]
-Name=AuthorParam
-Value=Michaela Hlatky
+Name=ZC_PPP
+Value=006
 
 [Parameter3]
-Name=Date
-Value=06/2022
+Name=ZC_GGG
+Value=000
 
 [Parameter4]
+Name=ProjectRevision
+Value=04
+
+[Parameter5]
 Name=ProjectNameCustom
 Value=UZ_D_Incr_Encoder
 
-[Parameter5]
-Name=ProjectRevision
-Value=Rev03
+[Parameter6]
+Name=ProjectDate
+Value=04/26
+
+[Parameter7]
+Name=Project
+Value=uz_d_incr_encoder
+
+[Parameter8]
+Name=Date
+Value=06/2022
+
+[Parameter9]
+Name=AuthorParam
+Value=Michaela Hlatky
+
+[Parameter10]
+Name=Author
+Value=Michaela Hlatky
+
+[Parameter11]
+Name=
+Value=
 
 [Configuration1]
 Name=Sources
