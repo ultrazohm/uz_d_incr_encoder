@@ -135,6 +135,23 @@ GenerateClassCluster=0
 DocumentUniqueId=RKOQSAPV
 
 [Document6]
+DocumentPath=altium_subsheets\Power_Load_LEDs10mA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=APLPCKZD
+
+[Document7]
 DocumentPath=UZ_D_Incr_Encoder.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUTONNES
 
-[Document7]
+[Document8]
 DocumentPath=UZ_Outputjob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document9]
 DocumentPath=UZ_D_Incr_Encoder.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=DigitalCarrierJack.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
