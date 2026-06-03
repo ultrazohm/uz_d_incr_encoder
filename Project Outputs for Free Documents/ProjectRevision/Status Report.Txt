@@ -1,0 +1,10 @@
+Output: Pick_Place_JLC
+Type  : Pick Place
+From  : Variant [Differential_Input] of PCB Document [UZ_D_Incr_Encoder.PcbDoc]
+   Generated File[Pick Place for UZ_D_Incr_Encoder.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:17:56 On 27/05/2026
