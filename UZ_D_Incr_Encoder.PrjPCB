@@ -225,14 +225,369 @@ UniqueID=74E42B91-B41C-47F9-8192-F076E6B28CFD
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=6
+VariationCount=13
 Variation1=Designator=R5|UniqueId=\EVTOCLWH\EBWVLWLR|Kind=1|AlternatePart= 
 Variation2=Designator=R14_1|UniqueId=\WITIXTXN\YBTDKUFJ|Kind=1|AlternatePart= 
 Variation3=Designator=R14_2|UniqueId=\ODGJBUDS\YBTDKUFJ|Kind=1|AlternatePart= 
 Variation4=Designator=R14_3|UniqueId=\JLYWADHL\YBTDKUFJ|Kind=1|AlternatePart= 
 Variation5=Designator=Cb1|UniqueId=\QTQYKSZW\PQWFWVND|Kind=1|AlternatePart= 
 Variation6=Designator=Cb2|UniqueId=\QTQYKSZW\FXKIBDMY|Kind=1|AlternatePart= 
-ParamVariationCount=0
+Variation7=Designator=Rb1|UniqueId=\QTQYKSZW\OXUITTWG|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=Rb1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=Rb1
+ParamVariation3=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator3=Rb1
+ParamVariation4=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator4=Rb1
+ParamVariation5=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator5=Rb1
+ParamVariation6=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator6=Rb1
+ParamVariation7=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator7=Rb1
+ParamVariation8=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator8=Rb1
+ParamVariation9=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator9=Rb1
+ParamVariation10=ParameterName=Device Package|VariantValue=0603
+ParamDesignator10=Rb1
+ParamVariation11=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator11=Rb1
+ParamVariation12=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator12=Rb1
+ParamVariation13=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator13=Rb1
+ParamVariation14=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator14=Rb1
+ParamVariation15=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator15=Rb1
+ParamVariation16=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator16=Rb1
+ParamVariation17=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator17=Rb1
+ParamVariation18=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator18=Rb1
+ParamVariation19=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator19=Rb1
+ParamVariation20=ParameterName=PartID|VariantValue=394
+ParamDesignator20=Rb1
+ParamVariation21=ParameterName=PCB3D|VariantValue= 
+ParamDesignator21=Rb1
+ParamVariation22=ParameterName=Pin Info|VariantValue= 
+ParamDesignator22=Rb1
+ParamVariation23=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator23=Rb1
+ParamVariation24=ParameterName=Simulation|VariantValue= 
+ParamDesignator24=Rb1
+ParamVariation25=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator25=Rb1
+ParamVariation26=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator26=Rb1
+ParamVariation27=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator27=Rb1
+ParamVariation28=ParameterName=Type|VariantValue=Resistor
+ParamDesignator28=Rb1
+ParamVariation29=ParameterName=Value|VariantValue=240R
+ParamDesignator29=Rb1
+Variation8=Designator=Rb2|UniqueId=\QTQYKSZW\TJYDGGWV|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation30=ParameterName=Comment|VariantValue==Value
+ParamDesignator30=Rb2
+ParamVariation31=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator31=Rb2
+ParamVariation32=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator32=Rb2
+ParamVariation33=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator33=Rb2
+ParamVariation34=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator34=Rb2
+ParamVariation35=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator35=Rb2
+ParamVariation36=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator36=Rb2
+ParamVariation37=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator37=Rb2
+ParamVariation38=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator38=Rb2
+ParamVariation39=ParameterName=Device Package|VariantValue=0603
+ParamDesignator39=Rb2
+ParamVariation40=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator40=Rb2
+ParamVariation41=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator41=Rb2
+ParamVariation42=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator42=Rb2
+ParamVariation43=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator43=Rb2
+ParamVariation44=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator44=Rb2
+ParamVariation45=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator45=Rb2
+ParamVariation46=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator46=Rb2
+ParamVariation47=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator47=Rb2
+ParamVariation48=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator48=Rb2
+ParamVariation49=ParameterName=PartID|VariantValue=394
+ParamDesignator49=Rb2
+ParamVariation50=ParameterName=PCB3D|VariantValue= 
+ParamDesignator50=Rb2
+ParamVariation51=ParameterName=Pin Info|VariantValue= 
+ParamDesignator51=Rb2
+ParamVariation52=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator52=Rb2
+ParamVariation53=ParameterName=Simulation|VariantValue= 
+ParamDesignator53=Rb2
+ParamVariation54=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator54=Rb2
+ParamVariation55=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator55=Rb2
+ParamVariation56=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator56=Rb2
+ParamVariation57=ParameterName=Type|VariantValue=Resistor
+ParamDesignator57=Rb2
+ParamVariation58=ParameterName=Value|VariantValue=240R
+ParamDesignator58=Rb2
+Variation9=Designator=Rb3|UniqueId=\QTQYKSZW\IKLRWKJO|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation59=ParameterName=Comment|VariantValue==Value
+ParamDesignator59=Rb3
+ParamVariation60=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator60=Rb3
+ParamVariation61=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator61=Rb3
+ParamVariation62=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator62=Rb3
+ParamVariation63=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator63=Rb3
+ParamVariation64=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator64=Rb3
+ParamVariation65=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator65=Rb3
+ParamVariation66=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator66=Rb3
+ParamVariation67=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator67=Rb3
+ParamVariation68=ParameterName=Device Package|VariantValue=0603
+ParamDesignator68=Rb3
+ParamVariation69=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator69=Rb3
+ParamVariation70=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator70=Rb3
+ParamVariation71=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator71=Rb3
+ParamVariation72=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator72=Rb3
+ParamVariation73=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator73=Rb3
+ParamVariation74=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator74=Rb3
+ParamVariation75=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator75=Rb3
+ParamVariation76=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator76=Rb3
+ParamVariation77=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator77=Rb3
+ParamVariation78=ParameterName=PartID|VariantValue=394
+ParamDesignator78=Rb3
+ParamVariation79=ParameterName=PCB3D|VariantValue= 
+ParamDesignator79=Rb3
+ParamVariation80=ParameterName=Pin Info|VariantValue= 
+ParamDesignator80=Rb3
+ParamVariation81=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator81=Rb3
+ParamVariation82=ParameterName=Simulation|VariantValue= 
+ParamDesignator82=Rb3
+ParamVariation83=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator83=Rb3
+ParamVariation84=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator84=Rb3
+ParamVariation85=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator85=Rb3
+ParamVariation86=ParameterName=Type|VariantValue=Resistor
+ParamDesignator86=Rb3
+ParamVariation87=ParameterName=Value|VariantValue=240R
+ParamDesignator87=Rb3
+Variation10=Designator=Rb4|UniqueId=\QTQYKSZW\LETPGVMH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation88=ParameterName=Comment|VariantValue==Value
+ParamDesignator88=Rb4
+ParamVariation89=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator89=Rb4
+ParamVariation90=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator90=Rb4
+ParamVariation91=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator91=Rb4
+ParamVariation92=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator92=Rb4
+ParamVariation93=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator93=Rb4
+ParamVariation94=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator94=Rb4
+ParamVariation95=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator95=Rb4
+ParamVariation96=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator96=Rb4
+ParamVariation97=ParameterName=Device Package|VariantValue=0603
+ParamDesignator97=Rb4
+ParamVariation98=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator98=Rb4
+ParamVariation99=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator99=Rb4
+ParamVariation100=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator100=Rb4
+ParamVariation101=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator101=Rb4
+ParamVariation102=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator102=Rb4
+ParamVariation103=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator103=Rb4
+ParamVariation104=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator104=Rb4
+ParamVariation105=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator105=Rb4
+ParamVariation106=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator106=Rb4
+ParamVariation107=ParameterName=PartID|VariantValue=394
+ParamDesignator107=Rb4
+ParamVariation108=ParameterName=PCB3D|VariantValue= 
+ParamDesignator108=Rb4
+ParamVariation109=ParameterName=Pin Info|VariantValue= 
+ParamDesignator109=Rb4
+ParamVariation110=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator110=Rb4
+ParamVariation111=ParameterName=Simulation|VariantValue= 
+ParamDesignator111=Rb4
+ParamVariation112=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator112=Rb4
+ParamVariation113=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator113=Rb4
+ParamVariation114=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator114=Rb4
+ParamVariation115=ParameterName=Type|VariantValue=Resistor
+ParamDesignator115=Rb4
+ParamVariation116=ParameterName=Value|VariantValue=240R
+ParamDesignator116=Rb4
+Variation11=Designator=Rb5|UniqueId=\QTQYKSZW\FURLBRGU|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation117=ParameterName=Comment|VariantValue==Value
+ParamDesignator117=Rb5
+ParamVariation118=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator118=Rb5
+ParamVariation119=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator119=Rb5
+ParamVariation120=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator120=Rb5
+ParamVariation121=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator121=Rb5
+ParamVariation122=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator122=Rb5
+ParamVariation123=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator123=Rb5
+ParamVariation124=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator124=Rb5
+ParamVariation125=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator125=Rb5
+ParamVariation126=ParameterName=Device Package|VariantValue=0603
+ParamDesignator126=Rb5
+ParamVariation127=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator127=Rb5
+ParamVariation128=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator128=Rb5
+ParamVariation129=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator129=Rb5
+ParamVariation130=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator130=Rb5
+ParamVariation131=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator131=Rb5
+ParamVariation132=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator132=Rb5
+ParamVariation133=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator133=Rb5
+ParamVariation134=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator134=Rb5
+ParamVariation135=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator135=Rb5
+ParamVariation136=ParameterName=PartID|VariantValue=394
+ParamDesignator136=Rb5
+ParamVariation137=ParameterName=PCB3D|VariantValue= 
+ParamDesignator137=Rb5
+ParamVariation138=ParameterName=Pin Info|VariantValue= 
+ParamDesignator138=Rb5
+ParamVariation139=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator139=Rb5
+ParamVariation140=ParameterName=Simulation|VariantValue= 
+ParamDesignator140=Rb5
+ParamVariation141=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator141=Rb5
+ParamVariation142=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator142=Rb5
+ParamVariation143=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator143=Rb5
+ParamVariation144=ParameterName=Type|VariantValue=Resistor
+ParamDesignator144=Rb5
+ParamVariation145=ParameterName=Value|VariantValue=240R
+ParamDesignator145=Rb5
+Variation12=Designator=Rb6|UniqueId=\QTQYKSZW\ZAFYQWDS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference= |AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID= |AltLibLink_ItemGUID= |AltLibLink_RevisionGUID= |AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation146=ParameterName=Comment|VariantValue==Value
+ParamDesignator146=Rb6
+ParamVariation147=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator147=Rb6
+ParamVariation148=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator148=Rb6
+ParamVariation149=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator149=Rb6
+ParamVariation150=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator150=Rb6
+ParamVariation151=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator151=Rb6
+ParamVariation152=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator152=Rb6
+ParamVariation153=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator153=Rb6
+ParamVariation154=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator154=Rb6
+ParamVariation155=ParameterName=Device Package|VariantValue=0603
+ParamDesignator155=Rb6
+ParamVariation156=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator156=Rb6
+ParamVariation157=ParameterName=Ibis Model|VariantValue= 
+ParamDesignator157=Rb6
+ParamVariation158=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator158=Rb6
+ParamVariation159=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator159=Rb6
+ParamVariation160=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator160=Rb6
+ParamVariation161=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator161=Rb6
+ParamVariation162=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator162=Rb6
+ParamVariation163=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator163=Rb6
+ParamVariation164=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator164=Rb6
+ParamVariation165=ParameterName=PartID|VariantValue=394
+ParamDesignator165=Rb6
+ParamVariation166=ParameterName=PCB3D|VariantValue= 
+ParamDesignator166=Rb6
+ParamVariation167=ParameterName=Pin Info|VariantValue= 
+ParamDesignator167=Rb6
+ParamVariation168=ParameterName=Signal Integrity|VariantValue= 
+ParamDesignator168=Rb6
+ParamVariation169=ParameterName=Simulation|VariantValue= 
+ParamDesignator169=Rb6
+ParamVariation170=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator170=Rb6
+ParamVariation171=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator171=Rb6
+ParamVariation172=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator172=Rb6
+ParamVariation173=ParameterName=Type|VariantValue=Resistor
+ParamDesignator173=Rb6
+ParamVariation174=ParameterName=Value|VariantValue=240R
+ParamDesignator174=Rb6
+Variation13=Designator=C8_2|UniqueId=\ODGJBUDS\FXLNDFHH|Kind=0|AlternatePart= 
+ParamVariationCount=174
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for UZ_D_Incr_Encoder\04\BOM\BOM_UZ_D_Incr_Encoder_Default_04.xlsx
@@ -255,6 +610,10 @@ DocumentPath=Project Outputs for UZ_D_Incr_Encoder\Pick Place\PickPlace_UZ_D_Inc
 DItemRevisionGUID=
 
 [GeneratedDocument6]
+DocumentPath=Project Outputs for UZ_D_Incr_Encoder\ExportSTEP\UZ_D_Incr_Encoder(Default).step
+DItemRevisionGUID=
+
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Free Documents\ExportSTEP\UZ_D_Incr_Encoder.step
 DItemRevisionGUID=
 
