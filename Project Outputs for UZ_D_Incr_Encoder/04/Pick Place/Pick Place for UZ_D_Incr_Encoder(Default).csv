@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\gauppto\Documents\uz_d_incr_encoder\Project Outputs for UZ_D_Incr_Encoder\04\Pick Place\Pick Place for UZ_D_Incr_Encoder(Default).csv
+C:\GIT\UltraZohm\pcb_design\uz_d_incr_encoder\Project Outputs for UZ_D_Incr_Encoder\04\Pick Place\Pick Place for UZ_D_Incr_Encoder(Default).csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       10/06/26
-Time:       15:51
-Revision:   71bf174111904b1aa5054f35b3f6d72bebb449e9
+Date:       16.06.26
+Time:       17:44
+Revision:   14b8d67d7dc883354a56c7871382e035724c4e37
 Variant:    Default
 Units used: mm
 
@@ -98,7 +98,7 @@ Units used: mm
 "R2_1","RES_0603_1608","109.1580","109.1580","83.9514","83.9514","109.1580","84.6014","270","120R","TopLayer"
 "R1_1","RES_0603_1608","109.1580","109.1580","78.7494","78.7494","109.1580","79.3994","270","120R","TopLayer"
 "X4","SAMTEC_TSW-106-07-F-D","6.2484","6.2484","79.0448","79.0448","4.9784","85.3948","270","Pin Header","TopLayer"
-"X3","SAMTEC_TSW-110-07-F-T","7.3660","7.3660","25.8826","25.8826","4.8260","37.3126","270","Pin Header","TopLayer"
+"X3","SAMTEC_TSW-110-07-F-T","7.3660","7.3660","25.8826","25.8826","9.9060","14.4526","270","Pin Header","TopLayer"
 "X2","SAMTEC_TSW-110-07-F-T","7.3152","7.3152","54.3560","54.3560","4.7752","65.7860","270","Pin Header","TopLayer"
 "U1_3","SIP7","68.4500","77.2000","30.2000","28.7500","70.8500","28.7500","0","TBA_2-0511","TopLayer"
 "U1_2","SIP7","68.3500","77.1000","65.1000","63.6500","70.7500","63.6500","0","TBA_2-0511","TopLayer"
