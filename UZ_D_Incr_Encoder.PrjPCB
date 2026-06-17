@@ -24,22 +24,50 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=0
+AutoCrossReferences=0
+NewIndexingOfSheetSymbols=1
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
+ConstraintManagerFlow=0
+IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
+CurrentVariant=Default
 
 [Preferences]
 PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=uz_OutputJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=UZ_D_Incr_Encoder.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -56,7 +84,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document2]
+[Document3]
 DocumentPath=DigitalCarrierJack.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -73,7 +101,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TOUXSEWW
 
-[Document3]
+[Document4]
 DocumentPath=TopSheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -90,7 +118,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GZATAJRJ
 
-[Document4]
+[Document5]
 DocumentPath=Encoder_Interface.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -107,7 +135,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document6]
+DocumentPath=altium_subsheets\Power_Load_LEDs10mA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=APLPCKZD
+
+[Document7]
 DocumentPath=Encoder_Interface.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -124,7 +169,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKOQSAPV
 
-[Document6]
+[Document8]
 DocumentPath=UZ_D_Incr_Encoder.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -141,24 +186,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EUTONNES
 
-[Document7]
-DocumentPath=UZ_Outputjob.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document8]
+[Document9]
 DocumentPath=UZ_D_Incr_Encoder.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -175,7 +203,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document10]
 DocumentPath=DigitalCarrierJack.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,36 +221,440 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [ProjectVariant1]
-UniqueID=74E42B91-B41C-47F9-8192-F076E6B28CFD
+UniqueId=74E42B91-B41C-47F9-8192-F076E6B28CFD
 Description=Default
 AllowFabrication=0
 ParameterCount=0
-VariationCount=4
-Variation1=Designator=R5|UniqueId=\EVTOCLWH\EBWVLWLR|Kind=1|AlternatePart= 
-Variation2=Designator=R14_1|UniqueId=\WITIXTXN\YBTDKUFJ|Kind=1|AlternatePart= 
-Variation3=Designator=R14_2|UniqueId=\ODGJBUDS\YBTDKUFJ|Kind=1|AlternatePart= 
-Variation4=Designator=R14_3|UniqueId=\JLYWADHL\YBTDKUFJ|Kind=1|AlternatePart= 
-ParamVariationCount=0
+VariationCount=12
+Variation1=Designator=R5|UniqueId=\EVTOCLWH\EBWVLWLR|Kind=1|AlternatePart=
+Variation2=Designator=R14_1|UniqueId=\WITIXTXN\YBTDKUFJ|Kind=1|AlternatePart=
+Variation3=Designator=R14_2|UniqueId=\ODGJBUDS\YBTDKUFJ|Kind=1|AlternatePart=
+Variation4=Designator=R14_3|UniqueId=\JLYWADHL\YBTDKUFJ|Kind=1|AlternatePart=
+Variation5=Designator=Cb1|UniqueId=\QTQYKSZW\PQWFWVND|Kind=1|AlternatePart=
+Variation6=Designator=Cb2|UniqueId=\QTQYKSZW\FXKIBDMY|Kind=1|AlternatePart=
+Variation7=Designator=Rb1|UniqueId=\QTQYKSZW\OXUITTWG|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue==Value
+ParamDesignator1=Rb1
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator2=Rb1
+ParamVariation3=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator3=Rb1
+ParamVariation4=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator4=Rb1
+ParamVariation5=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator5=Rb1
+ParamVariation6=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator6=Rb1
+ParamVariation7=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator7=Rb1
+ParamVariation8=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator8=Rb1
+ParamVariation9=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator9=Rb1
+ParamVariation10=ParameterName=Device Package|VariantValue=0603
+ParamDesignator10=Rb1
+ParamVariation11=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator11=Rb1
+ParamVariation12=ParameterName=Ibis Model|VariantValue=
+ParamDesignator12=Rb1
+ParamVariation13=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator13=Rb1
+ParamVariation14=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator14=Rb1
+ParamVariation15=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator15=Rb1
+ParamVariation16=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator16=Rb1
+ParamVariation17=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator17=Rb1
+ParamVariation18=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator18=Rb1
+ParamVariation19=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator19=Rb1
+ParamVariation20=ParameterName=PartID|VariantValue=394
+ParamDesignator20=Rb1
+ParamVariation21=ParameterName=PCB3D|VariantValue=
+ParamDesignator21=Rb1
+ParamVariation22=ParameterName=Pin Info|VariantValue=
+ParamDesignator22=Rb1
+ParamVariation23=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator23=Rb1
+ParamVariation24=ParameterName=Simulation|VariantValue=
+ParamDesignator24=Rb1
+ParamVariation25=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator25=Rb1
+ParamVariation26=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator26=Rb1
+ParamVariation27=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator27=Rb1
+ParamVariation28=ParameterName=Type|VariantValue=Resistor
+ParamDesignator28=Rb1
+ParamVariation29=ParameterName=Value|VariantValue=240R
+ParamDesignator29=Rb1
+Variation8=Designator=Rb2|UniqueId=\QTQYKSZW\TJYDGGWV|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation30=ParameterName=Comment|VariantValue==Value
+ParamDesignator30=Rb2
+ParamVariation31=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator31=Rb2
+ParamVariation32=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator32=Rb2
+ParamVariation33=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator33=Rb2
+ParamVariation34=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator34=Rb2
+ParamVariation35=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator35=Rb2
+ParamVariation36=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator36=Rb2
+ParamVariation37=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator37=Rb2
+ParamVariation38=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator38=Rb2
+ParamVariation39=ParameterName=Device Package|VariantValue=0603
+ParamDesignator39=Rb2
+ParamVariation40=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator40=Rb2
+ParamVariation41=ParameterName=Ibis Model|VariantValue=
+ParamDesignator41=Rb2
+ParamVariation42=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator42=Rb2
+ParamVariation43=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator43=Rb2
+ParamVariation44=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator44=Rb2
+ParamVariation45=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator45=Rb2
+ParamVariation46=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator46=Rb2
+ParamVariation47=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator47=Rb2
+ParamVariation48=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator48=Rb2
+ParamVariation49=ParameterName=PartID|VariantValue=394
+ParamDesignator49=Rb2
+ParamVariation50=ParameterName=PCB3D|VariantValue=
+ParamDesignator50=Rb2
+ParamVariation51=ParameterName=Pin Info|VariantValue=
+ParamDesignator51=Rb2
+ParamVariation52=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator52=Rb2
+ParamVariation53=ParameterName=Simulation|VariantValue=
+ParamDesignator53=Rb2
+ParamVariation54=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator54=Rb2
+ParamVariation55=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator55=Rb2
+ParamVariation56=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator56=Rb2
+ParamVariation57=ParameterName=Type|VariantValue=Resistor
+ParamDesignator57=Rb2
+ParamVariation58=ParameterName=Value|VariantValue=240R
+ParamDesignator58=Rb2
+Variation9=Designator=Rb3|UniqueId=\QTQYKSZW\IKLRWKJO|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation59=ParameterName=Comment|VariantValue==Value
+ParamDesignator59=Rb3
+ParamVariation60=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator60=Rb3
+ParamVariation61=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator61=Rb3
+ParamVariation62=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator62=Rb3
+ParamVariation63=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator63=Rb3
+ParamVariation64=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator64=Rb3
+ParamVariation65=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator65=Rb3
+ParamVariation66=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator66=Rb3
+ParamVariation67=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator67=Rb3
+ParamVariation68=ParameterName=Device Package|VariantValue=0603
+ParamDesignator68=Rb3
+ParamVariation69=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator69=Rb3
+ParamVariation70=ParameterName=Ibis Model|VariantValue=
+ParamDesignator70=Rb3
+ParamVariation71=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator71=Rb3
+ParamVariation72=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator72=Rb3
+ParamVariation73=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator73=Rb3
+ParamVariation74=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator74=Rb3
+ParamVariation75=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator75=Rb3
+ParamVariation76=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator76=Rb3
+ParamVariation77=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator77=Rb3
+ParamVariation78=ParameterName=PartID|VariantValue=394
+ParamDesignator78=Rb3
+ParamVariation79=ParameterName=PCB3D|VariantValue=
+ParamDesignator79=Rb3
+ParamVariation80=ParameterName=Pin Info|VariantValue=
+ParamDesignator80=Rb3
+ParamVariation81=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator81=Rb3
+ParamVariation82=ParameterName=Simulation|VariantValue=
+ParamDesignator82=Rb3
+ParamVariation83=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator83=Rb3
+ParamVariation84=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator84=Rb3
+ParamVariation85=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator85=Rb3
+ParamVariation86=ParameterName=Type|VariantValue=Resistor
+ParamDesignator86=Rb3
+ParamVariation87=ParameterName=Value|VariantValue=240R
+ParamDesignator87=Rb3
+Variation10=Designator=Rb4|UniqueId=\QTQYKSZW\LETPGVMH|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation88=ParameterName=Comment|VariantValue==Value
+ParamDesignator88=Rb4
+ParamVariation89=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator89=Rb4
+ParamVariation90=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator90=Rb4
+ParamVariation91=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator91=Rb4
+ParamVariation92=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator92=Rb4
+ParamVariation93=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator93=Rb4
+ParamVariation94=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator94=Rb4
+ParamVariation95=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator95=Rb4
+ParamVariation96=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator96=Rb4
+ParamVariation97=ParameterName=Device Package|VariantValue=0603
+ParamDesignator97=Rb4
+ParamVariation98=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator98=Rb4
+ParamVariation99=ParameterName=Ibis Model|VariantValue=
+ParamDesignator99=Rb4
+ParamVariation100=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator100=Rb4
+ParamVariation101=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator101=Rb4
+ParamVariation102=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator102=Rb4
+ParamVariation103=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator103=Rb4
+ParamVariation104=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator104=Rb4
+ParamVariation105=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator105=Rb4
+ParamVariation106=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator106=Rb4
+ParamVariation107=ParameterName=PartID|VariantValue=394
+ParamDesignator107=Rb4
+ParamVariation108=ParameterName=PCB3D|VariantValue=
+ParamDesignator108=Rb4
+ParamVariation109=ParameterName=Pin Info|VariantValue=
+ParamDesignator109=Rb4
+ParamVariation110=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator110=Rb4
+ParamVariation111=ParameterName=Simulation|VariantValue=
+ParamDesignator111=Rb4
+ParamVariation112=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator112=Rb4
+ParamVariation113=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator113=Rb4
+ParamVariation114=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator114=Rb4
+ParamVariation115=ParameterName=Type|VariantValue=Resistor
+ParamDesignator115=Rb4
+ParamVariation116=ParameterName=Value|VariantValue=240R
+ParamDesignator116=Rb4
+Variation11=Designator=Rb5|UniqueId=\QTQYKSZW\FURLBRGU|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation117=ParameterName=Comment|VariantValue==Value
+ParamDesignator117=Rb5
+ParamVariation118=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator118=Rb5
+ParamVariation119=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator119=Rb5
+ParamVariation120=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator120=Rb5
+ParamVariation121=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator121=Rb5
+ParamVariation122=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator122=Rb5
+ParamVariation123=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator123=Rb5
+ParamVariation124=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator124=Rb5
+ParamVariation125=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator125=Rb5
+ParamVariation126=ParameterName=Device Package|VariantValue=0603
+ParamDesignator126=Rb5
+ParamVariation127=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator127=Rb5
+ParamVariation128=ParameterName=Ibis Model|VariantValue=
+ParamDesignator128=Rb5
+ParamVariation129=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator129=Rb5
+ParamVariation130=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator130=Rb5
+ParamVariation131=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator131=Rb5
+ParamVariation132=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator132=Rb5
+ParamVariation133=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator133=Rb5
+ParamVariation134=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator134=Rb5
+ParamVariation135=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator135=Rb5
+ParamVariation136=ParameterName=PartID|VariantValue=394
+ParamDesignator136=Rb5
+ParamVariation137=ParameterName=PCB3D|VariantValue=
+ParamDesignator137=Rb5
+ParamVariation138=ParameterName=Pin Info|VariantValue=
+ParamDesignator138=Rb5
+ParamVariation139=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator139=Rb5
+ParamVariation140=ParameterName=Simulation|VariantValue=
+ParamDesignator140=Rb5
+ParamVariation141=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator141=Rb5
+ParamVariation142=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator142=Rb5
+ParamVariation143=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator143=Rb5
+ParamVariation144=ParameterName=Type|VariantValue=Resistor
+ParamDesignator144=Rb5
+ParamVariation145=ParameterName=Value|VariantValue=240R
+ParamDesignator145=Rb5
+Variation12=Designator=Rb6|UniqueId=\QTQYKSZW\ZAFYQWDS|Kind=2|AlternatePart==Value|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\gauppto\Documents\altium_libraries\user.DbLib/Resistors - SMD|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RC0603FR-07240RL|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=user.DbLib|AltLibLink_UseDBTableName=True|AltLibLink_DatabaseTableName=Resistors - SMD|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=R_0603_TE|AltLibLink_IsSameFootprint=True
+ParamVariation146=ParameterName=Comment|VariantValue==Value
+ParamDesignator146=Rb6
+ParamVariation147=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator147=Rb6
+ParamVariation148=ParameterName=ComponentLink1Description|VariantValue=Datasheet
+ParamDesignator148=Rb6
+ParamVariation149=ParameterName=ComponentLink1URL|VariantValue=https://www.lcsc.com/datasheet/C114613.pdf?spm=wm.sxq.inf.ggs&lcsc_vid=QQAPVAECQgdWVlZeR1YKVFcAFllaVVcHTlRZAgUCQFkxVlNeR1VWXlZfQ1JaUTsOAxUeFF5JWBYZEEoKFBINSQcJGk4eFQsCAgIaSgADAwAHC0slRlhfV1xfTlNADxALGw%3D%3D
+ParamDesignator149=Rb6
+ParamVariation150=ParameterName=Component Type|VariantValue=SMD resistor
+ParamDesignator150=Rb6
+ParamVariation151=ParameterName=Created from|VariantValue=TGaupp
+ParamDesignator151=Rb6
+ParamVariation152=ParameterName=Created On|VariantValue=03/06/2026 13:37:35
+ParamDesignator152=Rb6
+ParamVariation153=ParameterName=Database Table Name|VariantValue=Resistors - SMD
+ParamDesignator153=Rb6
+ParamVariation154=ParameterName=Description|VariantValue=-55℃~+155℃ 100mW 240Ω 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor
+ParamDesignator154=Rb6
+ParamVariation155=ParameterName=Device Package|VariantValue=0603
+ParamDesignator155=Rb6
+ParamVariation156=ParameterName=Footprint|VariantValue=R_0603_TE
+ParamDesignator156=Rb6
+ParamVariation157=ParameterName=Ibis Model|VariantValue=
+ParamDesignator157=Rb6
+ParamVariation158=ParameterName=Last Updated|VariantValue=03/06/2026 13:37:35
+ParamDesignator158=Rb6
+ParamVariation159=ParameterName=LCSC Part Number|VariantValue=C114613
+ParamDesignator159=Rb6
+ParamVariation160=ParameterName=Library Reference|VariantValue=RC0603FR-07240RL
+ParamDesignator160=Rb6
+ParamVariation161=ParameterName=Live Cycle Status|VariantValue=1
+ParamDesignator161=Rb6
+ParamVariation162=ParameterName=Manufacturer|VariantValue=YAGEO
+ParamDesignator162=Rb6
+ParamVariation163=ParameterName=Manufacturer Part Number|VariantValue=RC0603FR-07240RL
+ParamDesignator163=Rb6
+ParamVariation164=ParameterName=Mounting Type|VariantValue=SMD
+ParamDesignator164=Rb6
+ParamVariation165=ParameterName=PartID|VariantValue=394
+ParamDesignator165=Rb6
+ParamVariation166=ParameterName=PCB3D|VariantValue=
+ParamDesignator166=Rb6
+ParamVariation167=ParameterName=Pin Info|VariantValue=
+ParamDesignator167=Rb6
+ParamVariation168=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator168=Rb6
+ParamVariation169=ParameterName=Simulation|VariantValue=
+ParamDesignator169=Rb6
+ParamVariation170=ParameterName=Supplier 1|VariantValue=LCSC
+ParamDesignator170=Rb6
+ParamVariation171=ParameterName=Supplier Part Number 1|VariantValue==LCSC Part Number
+ParamDesignator171=Rb6
+ParamVariation172=ParameterName=Tolerance|VariantValue=1%
+ParamDesignator172=Rb6
+ParamVariation173=ParameterName=Type|VariantValue=Resistor
+ParamDesignator173=Rb6
+ParamVariation174=ParameterName=Value|VariantValue=240R
+ParamDesignator174=Rb6
+ParamVariationCount=174
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for UZ_D_Incr_Encoder\04\BOM\BOM_UZ_D_Incr_Encoder_Default_04.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for UZ_D_Incr_Encoder\ExportSTEP\Export STEP_UZ_D_Incr_Encoder_Default_04.step
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for UZ_D_Incr_Encoder\ProjectRevision\Pick Place\Pick_and_Place_UZ_D_Incr_Encoder_Default_04.csv
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Free Documents\Pick Place\PickPlace_Free Documents_ProjectRevision.csv
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for UZ_D_Incr_Encoder\Pick Place\PickPlace_UZ_D_Incr_Encoder_04.csv
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for UZ_D_Incr_Encoder\ExportSTEP\UZ_D_Incr_Encoder(Default).step
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Free Documents\ExportSTEP\UZ_D_Incr_Encoder.step
+DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Michaela Hlatky
+Name=ZC_vv
+Value=00
 
 [Parameter2]
-Name=AuthorParam
-Value=Michaela Hlatky
+Name=ZC_PPP
+Value=006
 
 [Parameter3]
-Name=Date
-Value=06/2022
+Name=ZC_GGG
+Value=000
 
 [Parameter4]
+Name=ProjectRevision
+Value=04
+
+[Parameter5]
 Name=ProjectNameCustom
 Value=UZ_D_Incr_Encoder
 
-[Parameter5]
-Name=ProjectRevision
-Value=Rev03
+[Parameter6]
+Name=ProjectDate
+Value=06/26
+
+[Parameter7]
+Name=Project
+Value=uz_d_incr_encoder
+
+[Parameter8]
+Name=Date
+Value=06/2022
+
+[Parameter9]
+Name=AuthorParam
+Value=Michaela Hlatky / Tom Gaupp
+
+[Parameter10]
+Name=Author
+Value=Michaela Hlatky / Tom Gaupp
 
 [Configuration1]
 Name=Sources
@@ -378,42 +810,12 @@ OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=SIMetrixNetlist
-OutputName21=SIMetrix
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
-OutputType22=SIMPLISNetlist
-OutputName22=SIMPLIS
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=XSpiceNetlist
-OutputName23=XSpice Netlist
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
 TargetPrinter=OKI B432(PS)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -423,7 +825,7 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=Composite
 OutputName1=Composite Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=PCB 3D Print
@@ -441,7 +843,7 @@ PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType4=PCB Print
 OutputName4=PCB Prints
 OutputDocumentPath4=
-OutputVariantName4=
+OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType5=PCBDrawing
@@ -453,7 +855,7 @@ PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType6=PCBLIB Print
 OutputName6=PCBLIB Prints
 OutputDocumentPath6=
-OutputVariantName6=
+OutputVariantName6=[No Variations]
 OutputDefault6=0
 PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType7=PDF3D
@@ -482,12 +884,24 @@ OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
+OutputType11=Harness Layout Drawing Print
+OutputName11=Harness Layout Drawing Prints
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
 PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType12=Harness Wiring Diagram Print
+OutputName12=Harness Wiring Diagram Prints
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType13=PDF3D MBA
+OutputName13=PDF3D MBA
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -510,6 +924,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -519,13 +938,13 @@ PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
 OutputDocumentPath1=
-OutputVariantName1=
+OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType2=Drill
 OutputName2=Drill Drawing/Guides
 OutputDocumentPath2=
-OutputVariantName2=
+OutputVariantName2=[No Variations]
 OutputDefault2=0
 PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType3=Board Stack Report
@@ -543,7 +962,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType5=Gerber X2
 OutputName5=Gerber X2 Files
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
 OutputType6=ODB
 OutputName6=ODB++ Files
@@ -553,7 +972,7 @@ OutputDefault6=0
 OutputType7=Mask
 OutputName7=Solder/Paste Mask Prints
 OutputDocumentPath7=
-OutputVariantName7=
+OutputVariantName7=[No Variations]
 OutputDefault7=0
 PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType8=NC Drill
@@ -568,12 +987,12 @@ Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
 OutputType10=Plane
 OutputName10=Power-Plane Prints
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
 PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 OutputType11=Test Points
@@ -645,6 +1064,29 @@ OutputName6=Report Single Pin Nets
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
+OutputType7=BOM_ReportCompare
+OutputName7=BOM Compare
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType8=Export Comments
+OutputName8=Export Comments
+OutputDocumentPath8=
+OutputVariantName8=[No Variations]
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType9=Project History
+OutputName9=Project History
+OutputDocumentPath9=
+OutputVariantName9=[No Variations]
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType10=BOM_ReportManufacturing
+OutputName10=Manufacturing Data
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -657,102 +1099,6 @@ OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType2=Text Print
-OutputName2=Text Print
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType3=Text Print
-OutputName3=Text Print
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType4=Text Print
-OutputName4=Text Print
-OutputDocumentPath4=
-OutputVariantName4=
-OutputDefault4=0
-PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType5=Text Print
-OutputName5=Text Print
-OutputDocumentPath5=
-OutputVariantName5=
-OutputDefault5=0
-PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType6=Text Print
-OutputName6=Text Print
-OutputDocumentPath6=
-OutputVariantName6=
-OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType7=Text Print
-OutputName7=Text Print
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType8=Text Print
-OutputName8=Text Print
-OutputDocumentPath8=
-OutputVariantName8=
-OutputDefault8=0
-PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=Text Print
-OutputName9=Text Print
-OutputDocumentPath9=
-OutputVariantName9=
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=Text Print
-OutputName10=Text Print
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=Text Print
-OutputName11=Text Print
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType12=Text Print
-OutputName12=Text Print
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType13=Text Print
-OutputName13=Text Print
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType14=Text Print
-OutputName14=Text Print
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType15=Text Print
-OutputName15=Text Print
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType16=Text Print
-OutputName16=Text Print
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType17=Text Print
-OutputName17=Text Print
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup8]
 Name=Validation Outputs
@@ -848,46 +1194,51 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
+OutputType10=Web ReviewOutputName
+OutputName10=Web Review Data
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
+OutputType11=Ansoft Neutral
+OutputName11=Ansoft Neutral (AutoPCB)
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
+OutputType12=HyperLynx
+OutputName12=HyperLynx (AutoPCB)
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
+OutputType13=MathWorks
+OutputName13=MathWorks (AutoPCB)
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputType14=MBAExportPARASOLID
+OutputName14=Export PARASOLID
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
+OutputType15=MBAExportSTEP
+OutputName15=Export STEP
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1020,6 +1371,58 @@ Type116=1
 Type117=1
 Type118=1
 Type119=1
+Type120=1
+Type121=1
+Type122=1
+Type123=1
+Type124=1
+Type125=1
+Type126=1
+Type127=1
+Type128=1
+Type129=1
+Type130=1
+Type131=1
+Type132=1
+Type133=1
+Type134=1
+Type135=1
+Type136=1
+Type137=1
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=1
+Type148=1
+Type149=1
+Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+Type160=1
+Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -1090,6 +1493,33 @@ Type65=1
 Type66=1
 Type67=1
 Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1211,12 +1641,52 @@ Type116=2
 Type117=3
 Type118=3
 Type119=3
-MultiChannelAlternate=2
+MultiChannelAlternate=0
 AlternateItemFail=3
 Type122=2
 Type123=1
 Type124=1
 Type125=1
+Type126=1
+Type127=1
+Type128=2
+Type129=2
+Type130=2
+Type131=2
+Type132=2
+Type133=2
+Type134=2
+Type135=2
+Type136=2
+Type137=2
+Type138=1
+Type139=1
+Type140=1
+Type141=1
+Type142=1
+Type143=1
+Type144=1
+Type145=1
+Type146=1
+Type147=2
+Type148=2
+Type149=2
+Type150=2
+Type151=2
+Type152=1
+Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
